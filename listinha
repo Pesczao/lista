@@ -151,3 +151,5 @@ http://tv01.logicahost.com.br:1935/tvuai/tvuai/live.m3u8?LISTASDAGLAU
 http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8
 #EXTINF:-1, group-title="Filmes",Cine Sky
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
+#EXTINF:0 group-title="CANAIS BRASILEIROS", GV NEWS
+http://173.236.10.10:1935/gvnews/gvnews/playlist.m3u8
