@@ -161,547 +161,439 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.sportyou.es/blog/wp-content/uploads/2015/09/realmadridtv.jpg" group-title="Canais Internacionais",Real Madrid TV SD 
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
-http://vip.primeuhd.com:25461/1listadez19/10203000/8477
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 2019¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Outros/A%2520Fazenda%252011.png" group-title="PAY-PER-VIEW",A FAZENDA 2019¹
+http://vip.primeuhd.com:25461/2listadez19/102030/14029
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 2019²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Outros/A%2520Fazenda%252011.png" group-title="PAY-PER-VIEW",A FAZENDA 2019²
+http://vip.primeuhd.com:25461/2listadez19/102030/14036
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/A%26E.png" group-title="FILMES E SÉRIES",A&E FHD H265
+http://vip.primeuhd.com:25461/2listadez19/102030/14190
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E FHD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/A%26E.png" group-title="FILMES E SÉRIES",A&E FHD
+http://vip.primeuhd.com:25461/2listadez19/102030/9020
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/A%26E.png" group-title="FILMES E SÉRIES",A&E HD¹
+http://vip.primeuhd.com:25461/2listadez19/102030/14191
+#EXTINF:-1 tvg-id="AlAan.ae" tvg-name="A&E HD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/A%26E.png" group-title="FILMES E SÉRIES",A&E HD
+http://vip.primeuhd.com:25461/2listadez19/102030/9068
+#EXTINF:-1 tvg-id="AlAan.ae" tvg-name="A&E SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/A%26E.png" group-title="FILMES E SÉRIES",A&E SD
+http://vip.primeuhd.com:25461/2listadez19/102030/9069
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/AMC.png" group-title="FILMES E SÉRIES",AMC FHD
+http://vip.primeuhd.com:25461/2listadez19/102030/9019
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/AMC.png" group-title="FILMES E SÉRIES",AMC HD
+http://vip.primeuhd.com:25461/2listadez19/102030/9066
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/AMC.png" group-title="FILMES E SÉRIES",AMC SD
+http://vip.primeuhd.com:25461/2listadez19/102030/9067
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/ANIMAL%20PLANET.png" group-title="DOCUMENTÁRIO",ANIMAL PLANET FHD H265
+http://vip.primeuhd.com:25461/2listadez19/102030/14263
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/ANIMAL%20PLANET.png" group-title="DOCUMENTÁRIO",ANIMAL PLANET FHD
+http://vip.primeuhd.com:25461/2listadez19/102030/8947
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/ANIMAL%20PLANET.png" group-title="DOCUMENTÁRIO",ANIMAL PLANET HD¹
+http://vip.primeuhd.com:25461/2listadez19/102030/14264
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/ANIMAL%20PLANET.png" group-title="DOCUMENTÁRIO",ANIMAL PLANET HD
+http://vip.primeuhd.com:25461/2listadez19/102030/8946
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/ANIMAL%20PLANET.png" group-title="DOCUMENTÁRIO",ANIMAL PLANET SD
+http://vip.primeuhd.com:25461/2listadez19/102030/8948
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1  FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/ARTE1.png" group-title="VARIEDADES",ARTE 1  FHD H265
+http://vip.primeuhd.com:25461/2listadez19/102030/14304
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="ARTE 1 FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/ARTE1.png" group-title="VARIEDADES",ARTE 1 FHD²
+http://vip.primeuhd.com:25461/2listadez19/102030/9265
+#EXTINF:-1 tvg-id="ARTE.de" tvg-name="ARTE 1 HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/ARTE1.png" group-title="VARIEDADES",ARTE 1 HD¹
+http://vip.primeuhd.com:25461/2listadez19/102030/14305
+#EXTINF:-1 tvg-id="ARTE.de" tvg-name="ARTE 1 HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/ARTE1.png" group-title="VARIEDADES",ARTE 1 HD²
+http://vip.primeuhd.com:25461/2listadez19/102030/9264
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/ARTE1.png" group-title="VARIEDADES",ARTE 1 SD
+http://vip.primeuhd.com:25461/2listadez19/102030/9266
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/AXN.png" group-title="FILMES E SÉRIES",AXN FHD H265
+http://vip.primeuhd.com:25461/2listadez19/102030/14193
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/AXN.png" group-title="FILMES E SÉRIES",AXN FHD
+http://vip.primeuhd.com:25461/2listadez19/102030/9018
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/AXN.png" group-title="FILMES E SÉRIES",AXN HD¹
+http://vip.primeuhd.com:25461/2listadez19/102030/14194
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/AXN.png" group-title="FILMES E SÉRIES",AXN HD
+http://vip.primeuhd.com:25461/2listadez19/102030/9064
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/AXN.png" group-title="FILMES E SÉRIES",AXN SD
+http://vip.primeuhd.com:25461/2listadez19/102030/9065
+#EXTINF:-1 tvg-id="BabyTV.hu" tvg-name="BABY TV FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/BABY%20TV.png" group-title="INFANTIL",BABY TV FHD H265
+http://vip.primeuhd.com:25461/2listadez19/102030/14237
+#EXTINF:-1 tvg-id="BabyTV.hu" tvg-name="BABY TV FHD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/BABY%20TV.png" group-title="INFANTIL",BABY TV FHD
+http://vip.primeuhd.com:25461/2listadez19/102030/9126
+#EXTINF:-1 tvg-id="BabyTV.hu" tvg-name="BABY TV HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/BABY%20TV.png" group-title="INFANTIL",BABY TV HD¹
+http://vip.primeuhd.com:25461/2listadez19/102030/14238
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV HD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/BABY%20TV.png" group-title="INFANTIL",BABY TV HD
+http://vip.primeuhd.com:25461/2listadez19/102030/8509
+#EXTINF:-1 tvg-id="babytv.br" tvg-name="BABY TV SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/BABY%20TV.png" group-title="INFANTIL",BABY TV SD
+http://vip.primeuhd.com:25461/2listadez19/102030/9127
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/BAND.png" group-title="CANAIS ABERTOS",BAND FHD H265
+http://vip.primeuhd.com:25461/2listadez19/102030/14161
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/BAND.png" group-title="CANAIS ABERTOS",BAND FHD²
+http://vip.primeuhd.com:25461/2listadez19/102030/8879
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/BAND.png" group-title="CANAIS ABERTOS",BAND HD¹
+http://vip.primeuhd.com:25461/2listadez19/102030/14162
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/BAND.png" group-title="CANAIS ABERTOS",BAND HD²
+http://vip.primeuhd.com:25461/2listadez19/102030/8524
+#EXTINF:-1 tvg-id="Band.br" tvg-name="BAND SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/BAND.png" group-title="CANAIS ABERTOS",BAND SD
+http://vip.primeuhd.com:25461/2listadez19/102030/8877
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND RECIFE FHD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/BAND.png" group-title="CANAIS ABERTOS",BAND RECIFE FHD
+http://vip.primeuhd.com:25461/2listadez19/102030/14163
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="BAND NEWS FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Noticias/BAND%20NEWS.png" group-title="NOTÍCIAS",BAND NEWS FHD H265
+http://vip.primeuhd.com:25461/2listadez19/102030/14325
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="BAND NEWS FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Noticias/BAND%20NEWS.png" group-title="NOTÍCIAS",BAND NEWS FHD²
+http://vip.primeuhd.com:25461/2listadez19/102030/9147
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="BAND NEWS HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Noticias/BAND%20NEWS.png" group-title="NOTÍCIAS",BAND NEWS HD¹
+http://vip.primeuhd.com:25461/2listadez19/102030/14326
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="BAND NEWS HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Noticias/BAND%20NEWS.png" group-title="NOTÍCIAS",BAND NEWS HD²
+http://vip.primeuhd.com:25461/2listadez19/102030/9146
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="BAND NEWS SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Noticias/BAND%20NEWS.png" group-title="NOTÍCIAS",BAND NEWS SD
+http://vip.primeuhd.com:25461/2listadez19/102030/9148
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/SPORTV.png" group-title="ESPORTES",SPORTV FHD H265
+http://vip.primeuhd.com:25461/2listadez19/102030/14090
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/SPORTV.png" group-title="ESPORTES",SPORTV FHD²
+http://vip.primeuhd.com:25461/2listadez19/102030/8983
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/SPORTV.png" group-title="ESPORTES",SPORTV HD¹
+http://vip.primeuhd.com:25461/2listadez19/102030/14093
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/SPORTV.png" group-title="ESPORTES",SPORTV HD²
+http://vip.primeuhd.com:25461/2listadez19/102030/8982
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/SPORTV.png" group-title="ESPORTES",SPORTV SD
+http://vip.primeuhd.com:25461/2listadez19/102030/8990
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/SPORTV%202.png" group-title="ESPORTES",SPORTV 2 FHD H265
+http://vip.primeuhd.com:25461/2listadez19/102030/14091
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/SPORTV%202.png" group-title="ESPORTES",SPORTV 2 FHD²
+http://vip.primeuhd.com:25461/2listadez19/102030/8988
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/SPORTV%202.png" group-title="ESPORTES",SPORTV 2 HD¹
+http://vip.primeuhd.com:25461/2listadez19/102030/14094
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/SPORTV%202.png" group-title="ESPORTES",SPORTV 2 HD²
+http://vip.primeuhd.com:25461/2listadez19/102030/8987
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/SPORTV%202.png" group-title="ESPORTES",SPORTV 2 SD
+http://vip.primeuhd.com:25461/2listadez19/102030/8989
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/SPORTV%203.png" group-title="ESPORTES",SPORTV 3 FHD H265
+http://vip.primeuhd.com:25461/2listadez19/102030/14092
+#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="SPORTV 3 FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/SPORTV%203.png" group-title="ESPORTES",SPORTV 3 FHD²
+http://vip.primeuhd.com:25461/2listadez19/102030/8985
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/SPORTV%203.png" group-title="ESPORTES",SPORTV 3 HD¹
+http://vip.primeuhd.com:25461/2listadez19/102030/14095
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/SPORTV%203.png" group-title="ESPORTES",SPORTV 3 HD²
+http://vip.primeuhd.com:25461/2listadez19/102030/8984
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/SPORTV%203.png" group-title="ESPORTES",SPORTV 3 SD
+http://vip.primeuhd.com:25461/2listadez19/102030/8986
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/COMBATE.png" group-title="ESPORTES",COMBATE FHD H265
+http://vip.primeuhd.com:25461/2listadez19/102030/14096
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/COMBATE.png" group-title="ESPORTES",COMBATE FHD²
+http://vip.primeuhd.com:25461/2listadez19/102030/8978
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/COMBATE.png" group-title="ESPORTES",COMBATE HD¹
+http://vip.primeuhd.com:25461/2listadez19/102030/14097
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/COMBATE.png" group-title="ESPORTES",COMBATE HD²
+http://vip.primeuhd.com:25461/2listadez19/102030/8977
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/COMBATE.png" group-title="ESPORTES",COMBATE SD
+http://vip.primeuhd.com:25461/2listadez19/102030/8979
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/BandSports.png" group-title="ESPORTES",BAND SPORTS FHD H265
+http://vip.primeuhd.com:25461/2listadez19/102030/14098
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/BandSports.png" group-title="ESPORTES",BAND SPORTS FHD²
+http://vip.primeuhd.com:25461/2listadez19/102030/8968
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/BandSports.png" group-title="ESPORTES",BAND SPORTS HD¹
+http://vip.primeuhd.com:25461/2listadez19/102030/14099
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/BandSports.png" group-title="ESPORTES",BAND SPORTS HD²
+http://vip.primeuhd.com:25461/2listadez19/102030/8969
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/BandSports.png" group-title="ESPORTES",BAND SPORTS SD
+http://vip.primeuhd.com:25461/2listadez19/102030/8330
+#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN BRASIL HD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/598px-DAZN_Logo.png" group-title="ESPORTES",DAZN BRASIL HD
+http://vip.primeuhd.com:25461/2listadez19/102030/8967
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Musicas/BIS.png" group-title="MÚSICAS",BIS FHD H265
+http://vip.primeuhd.com:25461/2listadez19/102030/14331
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Musicas/BIS.png" group-title="MÚSICAS",BIS FHD²
+http://vip.primeuhd.com:25461/2listadez19/102030/11108
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Musicas/BIS.png" group-title="MÚSICAS",BIS HD¹
+http://vip.primeuhd.com:25461/2listadez19/102030/14332
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Musicas/BIS.png" group-title="MÚSICAS",BIS HD²
+http://vip.primeuhd.com:25461/2listadez19/102030/9141
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Musicas/BIS.png" group-title="MÚSICAS",BIS SD
+http://vip.primeuhd.com:25461/2listadez19/102030/9142
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="BOOMERANG FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/Boomerang.png" group-title="INFANTIL",BOOMERANG FHD H265
+http://vip.primeuhd.com:25461/2listadez19/102030/14239
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="BOOMERANG FHD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/Boomerang.png" group-title="INFANTIL",BOOMERANG FHD
+http://vip.primeuhd.com:25461/2listadez19/102030/9124
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="BOOMERANG HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/Boomerang.png" group-title="INFANTIL",BOOMERANG HD¹
+http://vip.primeuhd.com:25461/2listadez19/102030/14240
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="BOOMERANG HD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/Boomerang.png" group-title="INFANTIL",BOOMERANG HD
+http://vip.primeuhd.com:25461/2listadez19/102030/9123
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="BOOMERANG SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/Boomerang.png" group-title="INFANTIL",BOOMERANG SD
+http://vip.primeuhd.com:25461/2listadez19/102030/9125
+#EXTINF:-1 tvg-id="CanalBrasil.br" tvg-name="CANAL BRASIL FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/CANAL%20BRASIL.png" group-title="FILMES E SÉRIES",CANAL BRASIL FHD H265
+http://vip.primeuhd.com:25461/2listadez19/102030/14195
+#EXTINF:-1 tvg-id="CanalBrasil.br" tvg-name="CANAL BRASIL FHD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/CANAL%20BRASIL.png" group-title="FILMES E SÉRIES",CANAL BRASIL FHD
+http://vip.primeuhd.com:25461/2listadez19/102030/11100
+#EXTINF:-1 tvg-id="CanalBrasil.br" tvg-name="CANAL BRASIL HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/CANAL%20BRASIL.png" group-title="FILMES E SÉRIES",CANAL BRASIL HD¹
+http://vip.primeuhd.com:25461/2listadez19/102030/14196
+#EXTINF:-1 tvg-id="CanalBrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/CANAL%20BRASIL.png" group-title="FILMES E SÉRIES",CANAL BRASIL HD
+http://vip.primeuhd.com:25461/2listadez19/102030/9061
+#EXTINF:-1 tvg-id="CanalBrasil.br" tvg-name="CANAL BRASIL SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/CANAL%20BRASIL.png" group-title="FILMES E SÉRIES",CANAL BRASIL SD
+http://vip.primeuhd.com:25461/2listadez19/102030/11093
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANCAO NOVA FHD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Religiosos/cancao-nova-logo.png" group-title="RELIGIOSO",CANCAO NOVA FHD
+http://vip.primeuhd.com:25461/2listadez19/102030/9219
+#EXTINF:-1 tvg-id="CancaoNova.pt" tvg-name="CANÇÃO NOVA HD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Religiosos/cancao-nova-logo.png" group-title="RELIGIOSO",CANÇÃO NOVA HD
+http://vip.primeuhd.com:25461/2listadez19/102030/8546
+#EXTINF:-1 tvg-id="CancaoNova.pt" tvg-name="CANÇÃO NOVA SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Religiosos/cancao-nova-logo.png" group-title="RELIGIOSO",CANÇÃO NOVA SD
+http://vip.primeuhd.com:25461/2listadez19/102030/8547
+#EXTINF:-1 tvg-id="cancaonova.br" tvg-name="TV EVANGELIZAR" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Religiosos/TV_Evangelizar.png" group-title="RELIGIOSO",TV EVANGELIZAR
+http://vip.primeuhd.com:25461/2listadez19/102030/9220
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/CARTOON%20NETWORK.png" group-title="INFANTIL",CARTOON NETWORK FHD H265
+http://vip.primeuhd.com:25461/2listadez19/102030/14241
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/CARTOON%20NETWORK.png" group-title="INFANTIL",CARTOON NETWORK FHD
+http://vip.primeuhd.com:25461/2listadez19/102030/9121
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/CARTOON%20NETWORK.png" group-title="INFANTIL",CARTOON NETWORK HD¹
+http://vip.primeuhd.com:25461/2listadez19/102030/14242
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/CARTOON%20NETWORK.png" group-title="INFANTIL",CARTOON NETWORK HD
+http://vip.primeuhd.com:25461/2listadez19/102030/9120
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/CARTOON%20NETWORK.png" group-title="INFANTIL",CARTOON NETWORK SD
+http://vip.primeuhd.com:25461/2listadez19/102030/9122
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/CINEMAX.png" group-title="FILMES E SÉRIES",CINEMAX FHD H265
+http://vip.primeuhd.com:25461/2listadez19/102030/14197
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX FHD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/CINEMAX.png" group-title="FILMES E SÉRIES",CINEMAX FHD
+http://vip.primeuhd.com:25461/2listadez19/102030/9016
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/CINEMAX.png" group-title="FILMES E SÉRIES",CINEMAX HD¹
+http://vip.primeuhd.com:25461/2listadez19/102030/14198
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/CINEMAX.png" group-title="FILMES E SÉRIES",CINEMAX HD
+http://vip.primeuhd.com:25461/2listadez19/102030/9062
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/CINEMAX.png" group-title="FILMES E SÉRIES",CINEMAX SD
+http://vip.primeuhd.com:25461/2listadez19/102030/9063
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="COMEDY CENTRAL FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/COMEDY%20CENTRAL.png" group-title="VARIEDADES",COMEDY CENTRAL FHD H265
+http://vip.primeuhd.com:25461/2listadez19/102030/14303
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="COMEDY CENTRAL FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/COMEDY%20CENTRAL.png" group-title="VARIEDADES",COMEDY CENTRAL FHD²
+http://vip.primeuhd.com:25461/2listadez19/102030/9262
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="COMEDY CENTRAL HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/COMEDY%20CENTRAL.png" group-title="VARIEDADES",COMEDY CENTRAL HD¹
+http://vip.primeuhd.com:25461/2listadez19/102030/14302
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="COMEDY CENTRAL HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/COMEDY%20CENTRAL.png" group-title="VARIEDADES",COMEDY CENTRAL HD²
+http://vip.primeuhd.com:25461/2listadez19/102030/9261
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/COMEDY%20CENTRAL.png" group-title="VARIEDADES",COMEDY CENTRAL SD
+http://vip.primeuhd.com:25461/2listadez19/102030/9263
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA!  FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/CURTA.png" group-title="VARIEDADES",CURTA!  FHD H265
+http://vip.primeuhd.com:25461/2listadez19/102030/14307
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/CURTA.png" group-title="VARIEDADES",CURTA! HD¹
+http://vip.primeuhd.com:25461/2listadez19/102030/14306
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/CURTA.png" group-title="VARIEDADES",CURTA! HD²
+http://vip.primeuhd.com:25461/2listadez19/102030/9259
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/CURTA.png" group-title="VARIEDADES",CURTA! SD
+http://vip.primeuhd.com:25461/2listadez19/102030/9260
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="DISCOVERY CHANNEL FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/DISCOVERY%20CHANNEL.png" group-title="DOCUMENTÁRIO",DISCOVERY CHANNEL FHD H265
+http://vip.primeuhd.com:25461/2listadez19/102030/14266
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/DISCOVERY%20CHANNEL.png" group-title="DOCUMENTÁRIO",DISCOVERY CHANNEL FHD
+http://vip.primeuhd.com:25461/2listadez19/102030/8944
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="DISCOVERY CHANNEL HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/DISCOVERY%20CHANNEL.png" group-title="DOCUMENTÁRIO",DISCOVERY CHANNEL HD¹
+http://vip.primeuhd.com:25461/2listadez19/102030/14274
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/DISCOVERY%20CHANNEL.png" group-title="DOCUMENTÁRIO",DISCOVERY CHANNEL HD
+http://vip.primeuhd.com:25461/2listadez19/102030/8943
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/DISCOVERY%20CHANNEL.png" group-title="DOCUMENTÁRIO",DISCOVERY CHANNEL SD
+http://vip.primeuhd.com:25461/2listadez19/102030/8945
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="DISCOVERY CIVILIZATOR FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/DISCOVERY%20CIVILIZATION.png" group-title="DOCUMENTÁRIO",DISCOVERY CIVILIZATOR FHD H265
+http://vip.primeuhd.com:25461/2listadez19/102030/14270
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="DISCOVERY CIVILIZATOR HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/DISCOVERY%20CIVILIZATION.png" group-title="DOCUMENTÁRIO",DISCOVERY CIVILIZATOR HD¹
+http://vip.primeuhd.com:25461/2listadez19/102030/14278
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="DISCOVERY CIVILIZATION SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/DISCOVERY%20CIVILIZATION.png" group-title="DOCUMENTÁRIO",DISCOVERY CIVILIZATION SD
+http://vip.primeuhd.com:25461/2listadez19/102030/8942
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="DISCOVERY HOME & HEALTH FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/DISCOVERY%20H%26H.png" group-title="DOCUMENTÁRIO",DISCOVERY HOME & HEALTH FHD H265
+http://vip.primeuhd.com:25461/2listadez19/102030/14272
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="DISCOVERY HOME & HEALTH FHD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/DISCOVERY%20H%26H.png" group-title="DOCUMENTÁRIO",DISCOVERY HOME & HEALTH FHD
+http://vip.primeuhd.com:25461/2listadez19/102030/8938
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="DISCOVERY HOME & HEALTH HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/DISCOVERY%20H%26H.png" group-title="DOCUMENTÁRIO",DISCOVERY HOME & HEALTH HD¹
+http://vip.primeuhd.com:25461/2listadez19/102030/14280
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/DISCOVERY%20H%26H.png" group-title="DOCUMENTÁRIO",DISCOVERY HOME & HEALTH HD
+http://vip.primeuhd.com:25461/2listadez19/102030/8937
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="DISCOVERY HOME & HEALTH SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/DISCOVERY%20H%26H.png" group-title="DOCUMENTÁRIO",DISCOVERY HOME & HEALTH SD
+http://vip.primeuhd.com:25461/2listadez19/102030/8939
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/DISCOVERY%20KIDS.png" group-title="INFANTIL",DISCOVERY KIDS FHD H265
+http://vip.primeuhd.com:25461/2listadez19/102030/14243
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS FHD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/DISCOVERY%20KIDS.png" group-title="INFANTIL",DISCOVERY KIDS FHD
+http://vip.primeuhd.com:25461/2listadez19/102030/8935
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/DISCOVERY%20KIDS.png" group-title="INFANTIL",DISCOVERY KIDS HD¹
+http://vip.primeuhd.com:25461/2listadez19/102030/14244
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/DISCOVERY%20KIDS.png" group-title="INFANTIL",DISCOVERY KIDS HD
+http://vip.primeuhd.com:25461/2listadez19/102030/8934
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/DISCOVERY%20KIDS.png" group-title="INFANTIL",DISCOVERY KIDS SD
+http://vip.primeuhd.com:25461/2listadez19/102030/8936
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="DISCOVERY SCIENCE FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/DISCOVERY%20SCIENCE.png" group-title="DOCUMENTÁRIO",DISCOVERY SCIENCE FHD H265
+http://vip.primeuhd.com:25461/2listadez19/102030/14269
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/DISCOVERY%20SCIENCE.png" group-title="DOCUMENTÁRIO",DISCOVERY SCIENCE FHD
+http://vip.primeuhd.com:25461/2listadez19/102030/8932
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="DISCOVERY SCIENCE HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/DISCOVERY%20SCIENCE.png" group-title="DOCUMENTÁRIO",DISCOVERY SCIENCE HD¹
+http://vip.primeuhd.com:25461/2listadez19/102030/14277
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/DISCOVERY%20SCIENCE.png" group-title="DOCUMENTÁRIO",DISCOVERY SCIENCE HD
+http://vip.primeuhd.com:25461/2listadez19/102030/8931
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/DISCOVERY%20SCIENCE.png" group-title="DOCUMENTÁRIO",DISCOVERY SCIENCE SD
+http://vip.primeuhd.com:25461/2listadez19/102030/8451
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="DISCOVERY THEATER FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/DISCOVERY%20THEATER.png" group-title="DOCUMENTÁRIO",DISCOVERY THEATER FHD H265
+http://vip.primeuhd.com:25461/2listadez19/102030/14267
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="DISCOVERY THEATER FHD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/DISCOVERY%20THEATER.png" group-title="DOCUMENTÁRIO",DISCOVERY THEATER FHD
+http://vip.primeuhd.com:25461/2listadez19/102030/8929
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="DISCOVERY THEATER HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/DISCOVERY%20THEATER.png" group-title="DOCUMENTÁRIO",DISCOVERY THEATER HD¹
+http://vip.primeuhd.com:25461/2listadez19/102030/14275
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/DISCOVERY%20THEATER.png" group-title="DOCUMENTÁRIO",DISCOVERY THEATER HD
+http://vip.primeuhd.com:25461/2listadez19/102030/8928
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="DISCOVERY THEATER SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/DISCOVERY%20THEATER.png" group-title="DOCUMENTÁRIO",DISCOVERY THEATER SD
+http://vip.primeuhd.com:25461/2listadez19/102030/8930
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/DISCOVERY%20TURBO.png" group-title="DOCUMENTÁRIO",DISCOVERY TURBO FHD H265
+http://vip.primeuhd.com:25461/2listadez19/102030/14265
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO FHD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/DISCOVERY%20TURBO.png" group-title="DOCUMENTÁRIO",DISCOVERY TURBO FHD
+http://vip.primeuhd.com:25461/2listadez19/102030/8926
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/DISCOVERY%20TURBO.png" group-title="DOCUMENTÁRIO",DISCOVERY TURBO HD¹
+http://vip.primeuhd.com:25461/2listadez19/102030/14273
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/DISCOVERY%20TURBO.png" group-title="DOCUMENTÁRIO",DISCOVERY TURBO HD
+http://vip.primeuhd.com:25461/2listadez19/102030/8925
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/DISCOVERY%20TURBO.png" group-title="DOCUMENTÁRIO",DISCOVERY TURBO SD
+http://vip.primeuhd.com:25461/2listadez19/102030/8927
+#EXTINF:-1 tvg-id="DiscoveryWorld.dk" tvg-name="DISCOVERY WORLD FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/Discovery%2520World.png" group-title="DOCUMENTÁRIO",DISCOVERY WORLD FHD H265
+http://vip.primeuhd.com:25461/2listadez19/102030/14268
+#EXTINF:-1 tvg-id="DiscoveryWorld.dk" tvg-name="DISCOVERY WORLD FHD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/Discovery%2520World.png" group-title="DOCUMENTÁRIO",DISCOVERY WORLD FHD
+http://vip.primeuhd.com:25461/2listadez19/102030/8923
+#EXTINF:-1 tvg-id="DiscoveryWorld.dk" tvg-name="DISCOVERY WORLD HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/Discovery%2520World.png" group-title="DOCUMENTÁRIO",DISCOVERY WORLD HD¹
+http://vip.primeuhd.com:25461/2listadez19/102030/14276
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/Discovery%2520World.png" group-title="DOCUMENTÁRIO",DISCOVERY WORLD HD
+http://vip.primeuhd.com:25461/2listadez19/102030/8922
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="DISCOVERY WORLD SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/Discovery%2520World.png" group-title="DOCUMENTÁRIO",DISCOVERY WORLD SD
+http://vip.primeuhd.com:25461/2listadez19/102030/8924
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/DISNEY%20CHANNEL.png" group-title="INFANTIL",DISNEY CHANNEL FHD H265
+http://vip.primeuhd.com:25461/2listadez19/102030/14245
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="DISNEY CHANNEL FHD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/DISNEY%20CHANNEL.png" group-title="INFANTIL",DISNEY CHANNEL FHD
+http://vip.primeuhd.com:25461/2listadez19/102030/9118
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/DISNEY%20CHANNEL.png" group-title="INFANTIL",DISNEY CHANNEL HD¹
+http://vip.primeuhd.com:25461/2listadez19/102030/14246
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/DISNEY%20CHANNEL.png" group-title="INFANTIL",DISNEY CHANNEL HD
+http://vip.primeuhd.com:25461/2listadez19/102030/9117
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/DISNEY%20CHANNEL.png" group-title="INFANTIL",DISNEY CHANNEL SD
+http://vip.primeuhd.com:25461/2listadez19/102030/9119
+#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="DISNEY JUNIOR FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/DISNEY%20JUNIOR.png" group-title="INFANTIL",DISNEY JUNIOR FHD H265
+http://vip.primeuhd.com:25461/2listadez19/102030/14247
+#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="DISNEY JUNIOR FHD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/DISNEY%20JUNIOR.png" group-title="INFANTIL",DISNEY JUNIOR FHD
+http://vip.primeuhd.com:25461/2listadez19/102030/9092
+#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="DISNEY JUNIOR HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/DISNEY%20JUNIOR.png" group-title="INFANTIL",DISNEY JUNIOR HD¹
+http://vip.primeuhd.com:25461/2listadez19/102030/14248
+#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="DISNEY JUNIOR HD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/DISNEY%20JUNIOR.png" group-title="INFANTIL",DISNEY JUNIOR HD
+http://vip.primeuhd.com:25461/2listadez19/102030/9114
+#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="DISNEY JUNIOR SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/DISNEY%20JUNIOR.png" group-title="INFANTIL",DISNEY JUNIOR SD
+http://vip.primeuhd.com:25461/2listadez19/102030/9115
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/DISNEY%20XD.png" group-title="INFANTIL",DISNEY XD FHD H265
+http://vip.primeuhd.com:25461/2listadez19/102030/14249
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD FHD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/DISNEY%20XD.png" group-title="INFANTIL",DISNEY XD FHD
+http://vip.primeuhd.com:25461/2listadez19/102030/9112
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/DISNEY%20XD.png" group-title="INFANTIL",DISNEY XD HD¹
+http://vip.primeuhd.com:25461/2listadez19/102030/14250
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD HD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/DISNEY%20XD.png" group-title="INFANTIL",DISNEY XD HD
+http://vip.primeuhd.com:25461/2listadez19/102030/9111
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/DISNEY%20XD.png" group-title="INFANTIL",DISNEY XD SD
+http://vip.primeuhd.com:25461/2listadez19/102030/9113
+#EXTINF:-1 tvg-id="" tvg-name="DOG TV FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/DOGTV.png" group-title="VARIEDADES",DOG TV FHD²
+http://vip.primeuhd.com:25461/2listadez19/102030/9110
+#EXTINF:-1 tvg-id="" tvg-name="DOG TV HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/DOGTV.png" group-title="VARIEDADES",DOG TV HD²
+http://vip.primeuhd.com:25461/2listadez19/102030/9109
+#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/E%21.png" group-title="VARIEDADES",E! FHD H265
+http://vip.primeuhd.com:25461/2listadez19/102030/9257
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/E%21.png" group-title="VARIEDADES",E! HD¹
+http://vip.primeuhd.com:25461/2listadez19/102030/14308
+#EXTINF:-1 tvg-id="" tvg-name="E! SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/E%21.png" group-title="VARIEDADES",E! SD
+http://vip.primeuhd.com:25461/2listadez19/102030/8477
 #EXTINF:-1 tvg-id="Esporteinterativo.br" tvg-name="EI PLUS HD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/EI%20PLUS.png" group-title="ESPORTES",EI PLUS HD
-http://vip.primeuhd.com:25461/1listadez19/10203000/11062
+http://vip.primeuhd.com:25461/2listadez19/102030/11062
 #EXTINF:-1 tvg-id="Esporteinterativo.br" tvg-name="EI PLUS SD ²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/EI%20PLUS.png" group-title="ESPORTES",EI PLUS SD ²
-http://vip.primeuhd.com:25461/1listadez19/10203000/8949
+http://vip.primeuhd.com:25461/2listadez19/102030/8949
 #EXTINF:-1 tvg-id="Esporteinterativo.br" tvg-name="ESPORTE INTERATIVO HD ¹" tvg-logo="http://cdn.mitvstatic.com/channels/br_esporte-interativo-hd_m.png" group-title="ESPORTES",ESPORTE INTERATIVO HD ¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/8950
+http://vip.primeuhd.com:25461/2listadez19/102030/8950
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/ESPN.png" group-title="ESPORTES",ESPN FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/14101
+http://vip.primeuhd.com:25461/2listadez19/102030/14101
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/ESPN.png" group-title="ESPORTES",ESPN FHD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/8964
+http://vip.primeuhd.com:25461/2listadez19/102030/8964
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/ESPN.png" group-title="ESPORTES",ESPN HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/14105
+http://vip.primeuhd.com:25461/2listadez19/102030/14105
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/ESPN.png" group-title="ESPORTES",ESPN HD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/8958
+http://vip.primeuhd.com:25461/2listadez19/102030/8958
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/ESPN.png" group-title="ESPORTES",ESPN SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/8965
+http://vip.primeuhd.com:25461/2listadez19/102030/8965
 #EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/ESPN%202.png" group-title="ESPORTES",ESPN 2 FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/14102
+http://vip.primeuhd.com:25461/2listadez19/102030/14102
 #EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/ESPN%202.png" group-title="ESPORTES",ESPN 2 FHD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/8957
+http://vip.primeuhd.com:25461/2listadez19/102030/8957
 #EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/ESPN%202.png" group-title="ESPORTES",ESPN 2 HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/14106
+http://vip.primeuhd.com:25461/2listadez19/102030/14106
 #EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/ESPN%202.png" group-title="ESPORTES",ESPN 2 HD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/8338
+http://vip.primeuhd.com:25461/2listadez19/102030/8338
 #EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/ESPN%202.png" group-title="ESPORTES",ESPN 2 SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/8339
+http://vip.primeuhd.com:25461/2listadez19/102030/8339
 #EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN BRASIL FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/ESPN%20BRASIL.png" group-title="ESPORTES",ESPN BRASIL FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/14103
+http://vip.primeuhd.com:25461/2listadez19/102030/14103
 #EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN BRASIL FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/ESPN%20BRASIL.png" group-title="ESPORTES",ESPN BRASIL FHD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/8960
+http://vip.primeuhd.com:25461/2listadez19/102030/8960
 #EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN BRASIL HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/ESPN%20BRASIL.png" group-title="ESPORTES",ESPN BRASIL HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/14107
+http://vip.primeuhd.com:25461/2listadez19/102030/14107
 #EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN BRASIL HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/ESPN%20BRASIL.png" group-title="ESPORTES",ESPN BRASIL HD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/8961
+http://vip.primeuhd.com:25461/2listadez19/102030/8961
 #EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN BRASIL SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/ESPN%20BRASIL.png" group-title="ESPORTES",ESPN BRASIL SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/8962
+http://vip.primeuhd.com:25461/2listadez19/102030/8962
 #EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN EXTRA FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/ESPN%20EXTRA.png" group-title="ESPORTES",ESPN EXTRA FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/14104
+http://vip.primeuhd.com:25461/2listadez19/102030/14104
 #EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN EXTRA FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/ESPN%20EXTRA.png" group-title="ESPORTES",ESPN EXTRA FHD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/8956
+http://vip.primeuhd.com:25461/2listadez19/102030/8956
 #EXTINF:-1 tvg-id="ESPNExtra.br" tvg-name="ESPN EXTRA HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/ESPN%20EXTRA.png" group-title="ESPORTES",ESPN EXTRA HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/14108
+http://vip.primeuhd.com:25461/2listadez19/102030/14108
 #EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN EXTRA HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/ESPN%20EXTRA.png" group-title="ESPORTES",ESPN EXTRA HD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/8963
+http://vip.primeuhd.com:25461/2listadez19/102030/8963
 #EXTINF:-1 tvg-id="foxsports.br" tvg-name="FOX SPORTS FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/FOX%20SPORTS.png" group-title="ESPORTES",FOX SPORTS FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/14109
+http://vip.primeuhd.com:25461/2listadez19/102030/14109
 #EXTINF:-1 tvg-id="foxsports.br" tvg-name="FOX SPORTS FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/FOX%20SPORTS.png" group-title="ESPORTES",FOX SPORTS FHD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/8972
+http://vip.primeuhd.com:25461/2listadez19/102030/8972
 #EXTINF:-1 tvg-id="foxsports.br" tvg-name="FOX SPORTS HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/FOX%20SPORTS.png" group-title="ESPORTES",FOX SPORTS HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/14111
+http://vip.primeuhd.com:25461/2listadez19/102030/14111
 #EXTINF:-1 tvg-id="foxsports.br" tvg-name="FOX SPORTS HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/FOX%20SPORTS.png" group-title="ESPORTES",FOX SPORTS HD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/8971
+http://vip.primeuhd.com:25461/2listadez19/102030/8971
 #EXTINF:-1 tvg-id="foxsports.br" tvg-name="FOX SPORTS SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/FOX%20SPORTS.png" group-title="ESPORTES",FOX SPORTS SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/8976
+http://vip.primeuhd.com:25461/2listadez19/102030/8976
 #EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORTS 2 FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/FOX%20SPORTS%202.png" group-title="ESPORTES",FOX SPORTS 2 FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/14110
+http://vip.primeuhd.com:25461/2listadez19/102030/14110
 #EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORTS 2 FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/FOX%20SPORTS%202.png" group-title="ESPORTES",FOX SPORTS 2 FHD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/8974
+http://vip.primeuhd.com:25461/2listadez19/102030/8974
 #EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORTS 2 HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/FOX%20SPORTS%202.png" group-title="ESPORTES",FOX SPORTS 2 HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/14112
+http://vip.primeuhd.com:25461/2listadez19/102030/14112
 #EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORTS 2 HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/FOX%20SPORTS%202.png" group-title="ESPORTES",FOX SPORTS 2 HD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/8973
+http://vip.primeuhd.com:25461/2listadez19/102030/8973
 #EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/FOX%20SPORTS%202.png" group-title="ESPORTES",FOX SPORTS 2 SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/8975
+http://vip.primeuhd.com:25461/2listadez19/102030/8975
 #EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/Fish%2520TV.png" group-title="ESPORTES",FISH FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/14113
+http://vip.primeuhd.com:25461/2listadez19/102030/14113
 #EXTINF:-1 tvg-id="FishTV.br" tvg-name="FISH TV FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/Fish%2520TV.png" group-title="ESPORTES",FISH TV FHD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/8951
+http://vip.primeuhd.com:25461/2listadez19/102030/8951
 #EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/Fish%2520TV.png" group-title="ESPORTES",FISH HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/14114
+http://vip.primeuhd.com:25461/2listadez19/102030/14114
 #EXTINF:-1 tvg-id="FishTV.br" tvg-name="FISH TV HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/Fish%2520TV.png" group-title="ESPORTES",FISH TV HD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/8952
+http://vip.primeuhd.com:25461/2listadez19/102030/8952
 #EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/Fish%2520TV.png" group-title="ESPORTES",FISH TV SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/8325
+http://vip.primeuhd.com:25461/2listadez19/102030/8325
 #EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/FOOD%20NETWORK.png" group-title="VARIEDADES",FOOD NETWORK FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/14309
+http://vip.primeuhd.com:25461/2listadez19/102030/14309
 #EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/FOOD%20NETWORK.png" group-title="VARIEDADES",FOOD NETWORK FHD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/9255
+http://vip.primeuhd.com:25461/2listadez19/102030/9255
 #EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/FOOD%20NETWORK.png" group-title="VARIEDADES",FOOD NETWORK HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/14310
+http://vip.primeuhd.com:25461/2listadez19/102030/14310
 #EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/FOOD%20NETWORK.png" group-title="VARIEDADES",FOOD NETWORK HD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/9254
+http://vip.primeuhd.com:25461/2listadez19/102030/9254
 #EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/FOOD%20NETWORK.png" group-title="VARIEDADES",FOOD NETWORK SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/9256
+http://vip.primeuhd.com:25461/2listadez19/102030/9256
 #EXTINF:-1 tvg-id="fox.br" tvg-name="FOX FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/FOX.png" group-title="FILMES E SÉRIES",FOX FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/14199
+http://vip.primeuhd.com:25461/2listadez19/102030/14199
 #EXTINF:-1 tvg-id="fox.br" tvg-name="FOX FHD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/FOX.png" group-title="FILMES E SÉRIES",FOX FHD
-http://vip.primeuhd.com:25461/1listadez19/10203000/9015
+http://vip.primeuhd.com:25461/2listadez19/102030/9015
 #EXTINF:-1 tvg-id="fox.br" tvg-name="FOX HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/FOX.png" group-title="FILMES E SÉRIES",FOX HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/14200
+http://vip.primeuhd.com:25461/2listadez19/102030/14200
 #EXTINF:-1 tvg-id="fox.br" tvg-name="FOX HD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/FOX.png" group-title="FILMES E SÉRIES",FOX HD
-http://vip.primeuhd.com:25461/1listadez19/10203000/9059
+http://vip.primeuhd.com:25461/2listadez19/102030/9059
 #EXTINF:-1 tvg-id="fox.br" tvg-name="FOX SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/FOX.png" group-title="FILMES E SÉRIES",FOX SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/9060
+http://vip.primeuhd.com:25461/2listadez19/102030/9060
 #EXTINF:-1 tvg-id="foxlife.br" tvg-name="FOX LIFE FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/FOX%20LIFE.png" group-title="FILMES E SÉRIES",FOX LIFE FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/14201
+http://vip.primeuhd.com:25461/2listadez19/102030/14201
 #EXTINF:-1 tvg-id="foxlife.br" tvg-name="FOX LIFE FHD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/FOX%20LIFE.png" group-title="FILMES E SÉRIES",FOX LIFE FHD
-http://vip.primeuhd.com:25461/1listadez19/10203000/11098
+http://vip.primeuhd.com:25461/2listadez19/102030/11098
 #EXTINF:-1 tvg-id="foxlife.br" tvg-name="FOX LIFE HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/FOX%20LIFE.png" group-title="FILMES E SÉRIES",FOX LIFE HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/14202
+http://vip.primeuhd.com:25461/2listadez19/102030/14202
 #EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/FOX%20LIFE.png" group-title="FILMES E SÉRIES",FOX LIFE HD
-http://vip.primeuhd.com:25461/1listadez19/10203000/9057
+http://vip.primeuhd.com:25461/2listadez19/102030/9057
 #EXTINF:-1 tvg-id="foxlife.br" tvg-name="FOX LIFE SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/FOX%20LIFE.png" group-title="FILMES E SÉRIES",FOX LIFE SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/9058
+http://vip.primeuhd.com:25461/2listadez19/102030/9058
 #EXTINF:-1 tvg-id="foxpremium1.br" tvg-name="FOX PREMIUM 1 FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/FOX%20PREMIUM%201.png" group-title="FILMES E SÉRIES",FOX PREMIUM 1 FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/14203
+http://vip.primeuhd.com:25461/2listadez19/102030/14203
 #EXTINF:-1 tvg-id="FOXPremium1.br" tvg-name="FOX PREMIUM 1 FHD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/FOX%20PREMIUM%201.png" group-title="FILMES E SÉRIES",FOX PREMIUM 1 FHD
-http://vip.primeuhd.com:25461/1listadez19/10203000/9014
+http://vip.primeuhd.com:25461/2listadez19/102030/9014
 #EXTINF:-1 tvg-id="FOXPremium1.br" tvg-name="FOX PREMIUM 1 HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/FOX%20PREMIUM%201.png" group-title="FILMES E SÉRIES",FOX PREMIUM 1 HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/14204
-#EXTINF:-1 tvg-id="FOXPremium1.br" tvg-name="FOX PREMIUM 1 HD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/FOX%20PREMIUM%201.png" group-title="FILMES E SÉRIES",FOX PREMIUM 1 HD
-http://vip.primeuhd.com:25461/1listadez19/10203000/9055
-#EXTINF:-1 tvg-id="FOXPremium1.br" tvg-name="FOX PREMIUM 1 SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/FOX%20PREMIUM%201.png" group-title="FILMES E SÉRIES",FOX PREMIUM 1 SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/9056
-#EXTINF:-1 tvg-id="FOXPremium2.br" tvg-name="FOX PREMIUM 2 FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/FOX%20PREMIUM%202.png" group-title="FILMES E SÉRIES",FOX PREMIUM 2 FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/14205
-#EXTINF:-1 tvg-id="FOXPremium2.br" tvg-name="FOX PREMIUM 2 FHD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/FOX%20PREMIUM%202.png" group-title="FILMES E SÉRIES",FOX PREMIUM 2 FHD
-http://vip.primeuhd.com:25461/1listadez19/10203000/9013
-#EXTINF:-1 tvg-id="FOXPremium2.br" tvg-name="FOX PREMIUM 2 HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/FOX%20PREMIUM%202.png" group-title="FILMES E SÉRIES",FOX PREMIUM 2 HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/14206
-#EXTINF:-1 tvg-id="FOXPremium2.br" tvg-name="FOX PREMIUM 2 HD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/FOX%20PREMIUM%202.png" group-title="FILMES E SÉRIES",FOX PREMIUM 2 HD
-http://vip.primeuhd.com:25461/1listadez19/10203000/9053
-#EXTINF:-1 tvg-id="FOXPremium2.br" tvg-name="FOX PREMIUM 2 SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/FOX%20PREMIUM%202.png" group-title="FILMES E SÉRIES",FOX PREMIUM 2 SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/9054
-#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA FHD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/CANAL%20FUTURA.png" group-title="CANAIS ABERTOS",FUTURA FHD
-http://vip.primeuhd.com:25461/1listadez19/10203000/8871
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/FX.png" group-title="FILMES E SÉRIES",FX FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/14207
-#EXTINF:-1 tvg-id="FXHD.qa" tvg-name="FX FHD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/FX.png" group-title="FILMES E SÉRIES",FX FHD
-http://vip.primeuhd.com:25461/1listadez19/10203000/9008
-#EXTINF:-1 tvg-id="FXHD.qa" tvg-name="FX HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/FX.png" group-title="FILMES E SÉRIES",FX HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/14208
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/FX.png" group-title="FILMES E SÉRIES",FX HD
-http://vip.primeuhd.com:25461/1listadez19/10203000/9052
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/FX.png" group-title="FILMES E SÉRIES",FX SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/11094
-#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="GAZETA SP FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Gazeta.png" group-title="CANAIS ABERTOS",GAZETA SP FHD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/8869
-#EXTINF:-1 tvg-id="Globo.pt" tvg-name="GLOBO SP FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO SP FHD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/13835
-#EXTINF:-1 tvg-id="Globo.pt" tvg-name="GLOBO SP HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO SP HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/9187
-#EXTINF:-1 tvg-id="Globo.pt" tvg-name="GLOBO SP HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO SP HD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/8559
-#EXTINF:-1 tvg-id="Globo.pt" tvg-name="GLOBO SP SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO SP SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/9189
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="GLOBO RJ HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO RJ HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/9191
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="GLOBO RJ HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO RJ HD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/8549
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="GLOBO RJ SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO RJ SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/9193
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV GAZETA VITORIA HD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO TV GAZETA VITORIA HD
-http://vip.primeuhd.com:25461/1listadez19/10203000/16429
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO BAHIA FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO BAHIA FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/13847
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO BAHIA HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO BAHIA HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/8554
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="GLOBO BAHIA SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO BAHIA SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/13828
-#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO BRASILIA HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/9208
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO BRASILIA HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO BRASILIA HD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/13846
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="GLOBO BRASILIA SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO BRASILIA SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/8571
-#EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GLOBO ANHANGUERA FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO ANHANGUERA FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/9210
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO ANHANGUERA HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO ANHANGUERA HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/8573
-#EXTINF:-1 tvg-id="GloboTVVanguarda.br" tvg-name="GLOBO TV ANHANGUERA GOIANIA SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO TV ANHANGUERA GOIANIA SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/8563
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV MIRANTE COCAIS FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO TV MIRANTE COCAIS FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/13830
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO TV MIRANTE COCAIS HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO TV MIRANTE COCAIS HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/8553
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO TV MIRANTE COCAIS HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO TV MIRANTE COCAIS HD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/8574
-#EXTINF:-1 tvg-id="Global.ca" tvg-name="GLOBO CENTRO AMERICA FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO CENTRO AMERICA FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/9203
-#EXTINF:-1 tvg-id="Global.ca" tvg-name="GLOBO TV CENTRO AMERICA HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO TV CENTRO AMERICA HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/8558
-#EXTINF:-1 tvg-id="Global.ca" tvg-name="GLOBO TV CENTRO AMERICA SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO TV CENTRO AMERICA SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/8564
-#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="GLOBO EPTV CAMPINAS FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO EPTV CAMPINAS FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/9206
-#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="GLOBO EPTV CAMPINAS HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO EPTV CAMPINAS HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/9207
-#EXTINF:-1 tvg-id="GloboTVTribuna.br" tvg-name="GLOBO EPTV CAMPINAS SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO EPTV CAMPINAS SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/13845
-#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="GLOBO EPTV RIBEIRAO PRETO HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO EPTV RIBEIRAO PRETO HD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/9204
-#EXTINF:-1 tvg-id="GloboTVTribuna.br" tvg-name="GLOBO EPTV RIBEIRAO PRETO SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO EPTV RIBEIRAO PRETO SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/13844
-#EXTINF:-1 tvg-id="GloboRBSTVPoa.br" tvg-name="GLOBO EPTV SAO CARLOS SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO EPTV SAO CARLOS SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/9192
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO TV MORENA FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO TV MORENA FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/8567
-#EXTINF:-1 tvg-id="GloboTVTribuna.br" tvg-name="GLOBO TV MORENA HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO TV MORENA HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/9190
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO GOIAIS FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO GOIAIS FHD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/8565
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO INTERTV CABUGI HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO INTERTV CABUGI HD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/9176
-#EXTINF:-1 tvg-id="GloboInternacional.pt" tvg-name="GLOBO INTERTV CABUGI SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO INTERTV CABUGI SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/8562
-#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO MINAS FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO MINAS FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/9201
-#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO MINAS HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO MINAS HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/9200
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO MINAS HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO MINAS HD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/8561
-#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="GLOBO MINAS SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO MINAS SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/9202
-#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO NORDESTE FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO NORDESTE FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/9198
-#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO NORDESTE HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO NORDESTE HD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/9197
-#EXTINF:-1 tvg-id="GloboNow.pt" tvg-name="GLOBO NORDESTE SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO NORDESTE SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/9199
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO NSC FLORIPA FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO NSC FLORIPA FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/13827
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO NSC FLORIENOPOLIS HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO NSC FLORIENOPOLIS HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/9205
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO REDE AMAZONICA MANAUS SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO REDE AMAZONICA MANAUS SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/8560
-#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO NORDESTE HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO NORDESTE HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/9174
-#EXTINF:-1 tvg-id="GloboRBSTVPoa.br" tvg-name="GLOBO RBS PORTO ALEGRE HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO RBS PORTO ALEGRE HD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/9196
-#EXTINF:-1 tvg-id="GloboRBSTVPoa.br" tvg-name="GLOBO RBS TV POA HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO RBS TV POA HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/13848
-#EXTINF:-1 tvg-id="GloboRBSTVPoa.br" tvg-name="GLOBO RBS TV PORTO ALEGRE SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO RBS TV PORTO ALEGRE SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/13840
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO GRANDE RIO FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO GRANDE RIO FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/9195
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RECIFE FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO RECIFE FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/9194
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO RPC CURITIBA HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO RPC CURITIBA HD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/8572
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RPC PARANAENSE FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO RPC PARANAENSE FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/8568
-#EXTINF:-1 tvg-id="GloboTVTribuna.br" tvg-name="GLOBO TV LIBERAL BELEM SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO TV LIBERAL BELEM SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/8569
-#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO TV LIBERAL FHD 265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO TV LIBERAL FHD 265
-http://vip.primeuhd.com:25461/1listadez19/10203000/9186
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO TV LIBERAL HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO TV LIBERAL HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/8556
-#EXTINF:-1 tvg-id="GloboTVTribuna.br" tvg-name="GLOBO TV RIO SUL HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO TV RIO SUL HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/13829
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO TV SERGIPE HD*" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO TV SERGIPE HD*
-http://vip.primeuhd.com:25461/1listadez19/10203000/8550
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV SUDOESTE" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO TV SUDOESTE
-http://vip.primeuhd.com:25461/1listadez19/10203000/14026
-#EXTINF:-1 tvg-id="GloboTVTem Bauru.br" tvg-name="GLOBO TV TEM BAURU SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO TV TEM BAURU SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/9185
-#EXTINF:-1 tvg-id="GloboTVTribuna.br" tvg-name="GLOBO TV TEM ITAPETINGA" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO TV TEM ITAPETINGA
-http://vip.primeuhd.com:25461/1listadez19/10203000/14027
-#EXTINF:-1 tvg-id="GloboTVTem Bauru.br" tvg-name="GLOBO TV TEM SOROCABA SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO TV TEM SOROCABA SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/9184
-#EXTINF:-1 tvg-id="GloboTVTribuna.br" tvg-name="GLOBO TV TRIBUNA SANTOS SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO TV TRIBUNA SANTOS SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/9183
-#EXTINF:-1 tvg-id="GloboTVVanguarda.br" tvg-name="GLOBO TV VANGUARDA S.J DOS CAMPOS SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO TV VANGUARDA S.J DOS CAMPOS SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/9182
-#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO TV VERDES MARES FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO TV VERDES MARES FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/9181
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO TV VERDES MARES HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO TV VERDES MARES HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/8548
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO VERDES MARES HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO VERDES MARES HD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/8551
-#EXTINF:-1 tvg-id="GloboTVTem Bauru.br" tvg-name="GLOBO TV VERDES MARES SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/Globo_logo.png" group-title="REDE GLOBO",GLOBO TV VERDES MARES SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/8566
-#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="GLOBO NEWS FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Noticias/GLOBO%20NEWS.png" group-title="NOTÍCIAS",GLOBO NEWS FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/14327
-#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="GLOBO NEWS FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Noticias/GLOBO%20NEWS.png" group-title="NOTÍCIAS",GLOBO NEWS FHD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/11105
-#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="GLOBO NEWS HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Noticias/GLOBO%20NEWS.png" group-title="NOTÍCIAS",GLOBO NEWS HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/14328
-#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="GLOBO NEWS HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Noticias/GLOBO%20NEWS.png" group-title="NOTÍCIAS",GLOBO NEWS HD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/9149
-#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="GLOBO NEWS SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Noticias/GLOBO%20NEWS.png" group-title="NOTÍCIAS",GLOBO NEWS SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/9150
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/SBT.png" group-title="CANAIS ABERTOS",SBT FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/14159
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/SBT.png" group-title="CANAIS ABERTOS",SBT FHD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/8886
-#EXTINF:-1 tvg-id="Sbtv.hr" tvg-name="SBT HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/SBT.png" group-title="CANAIS ABERTOS",SBT HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/14160
-#EXTINF:-1 tvg-id="Sbtv.hr" tvg-name="SBT HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/SBT.png" group-title="CANAIS ABERTOS",SBT HD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/8884
-#EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/SBT.png" group-title="CANAIS ABERTOS",SBT SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/8887
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="SBT CIDADE VERDE PIAUI SD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/SBT.png" group-title="CANAIS ABERTOS",SBT CIDADE VERDE PIAUI SD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/8555
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT RECIFE FHD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/SBT.png" group-title="CANAIS ABERTOS",SBT RECIFE FHD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/14155
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT NORDESTE HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/SBT.png" group-title="CANAIS ABERTOS",SBT NORDESTE HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/14158
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT TV JORNAL SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/SBT.png" group-title="CANAIS ABERTOS",SBT TV JORNAL SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/11074
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT PARANA SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/SBT.png" group-title="CANAIS ABERTOS",SBT PARANA SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/8883
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS GLOBOSAT FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/MAIS%20GLOBOSAT.png" group-title="VARIEDADES",MAIS GLOBOSAT FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/14315
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS GLOBOSAT FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/MAIS%20GLOBOSAT.png" group-title="VARIEDADES",MAIS GLOBOSAT FHD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/14324
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS GLOBOSAT HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/MAIS%20GLOBOSAT.png" group-title="VARIEDADES",MAIS GLOBOSAT HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/14316
-#EXTINF:-1 tvg-id="" tvg-name="MAIS GLOBOSAT HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/MAIS%20GLOBOSAT.png" group-title="VARIEDADES",MAIS GLOBOSAT HD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/9179
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS GLOBOSAT SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/MAIS%20GLOBOSAT.png" group-title="VARIEDADES",MAIS GLOBOSAT SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/9180
-#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/GLOOBINHO.png" group-title="INFANTIL",GLOOBINHO FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/14251
-#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/GLOOBINHO.png" group-title="INFANTIL",GLOOBINHO HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/14252
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/GLOOB.png" group-title="INFANTIL",GLOOB FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/14253
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB FHD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/GLOOB.png" group-title="INFANTIL",GLOOB FHD
-http://vip.primeuhd.com:25461/1listadez19/10203000/9106
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/GLOOB.png" group-title="INFANTIL",GLOOB HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/14254
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/GLOOB.png" group-title="INFANTIL",GLOOB HD
-http://vip.primeuhd.com:25461/1listadez19/10203000/9105
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/GLOOB.png" group-title="INFANTIL",GLOOB SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/9107
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT  FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/GNT.png" group-title="VARIEDADES",GNT  FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/14311
-#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/GNT.png" group-title="VARIEDADES",GNT FHD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/11104
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/GNT.png" group-title="VARIEDADES",GNT HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/14312
-#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/GNT.png" group-title="VARIEDADES",GNT HD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/9252
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/GNT.png" group-title="VARIEDADES",GNT SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/9253
-#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/HOSTORY%202.png" group-title="DOCUMENTÁRIO",H2 FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/14281
-#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 FHD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/HOSTORY%202.png" group-title="DOCUMENTÁRIO",H2 FHD
-http://vip.primeuhd.com:25461/1listadez19/10203000/8914
-#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/HOSTORY%202.png" group-title="DOCUMENTÁRIO",H2 HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/14283
-#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 HD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/HOSTORY%202.png" group-title="DOCUMENTÁRIO",H2 HD
-http://vip.primeuhd.com:25461/1listadez19/10203000/8913
-#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/HOSTORY%202.png" group-title="DOCUMENTÁRIO",H2 SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/8915
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO.png" group-title="HBO",HBO FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/14129
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO.png" group-title="HBO",HBO FHD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/9081
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO.png" group-title="HBO",HBO HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/14134
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO.png" group-title="HBO",HBO HD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/9080
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO.png" group-title="HBO",HBO SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/9087
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO2_logo.png" group-title="HBO",HBO 2 FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/14130
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO2_logo.png" group-title="HBO",HBO 2 FHD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/9085
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO 2 HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO2_logo.png" group-title="HBO",HBO 2 HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/14135
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO2_logo.png" group-title="HBO",HBO 2 HD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/9084
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO2_logo.png" group-title="HBO",HBO 2 SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/9086
-#EXTINF:-1 tvg-id="HBOFamily.id" tvg-name="HBO FAMILY FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO_Family_logo.png" group-title="HBO",HBO FAMILY FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/14131
-#EXTINF:-1 tvg-id="HBOFamily.id" tvg-name="HBO FAMILY FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO_Family_logo.png" group-title="HBO",HBO FAMILY FHD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/9071
-#EXTINF:-1 tvg-id="HBOFamily.id" tvg-name="HBO FAMILY HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO_Family_logo.png" group-title="HBO",HBO FAMILY HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/14136
-#EXTINF:-1 tvg-id="HBOFamily.id" tvg-name="HBO FAMILY HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO_Family_logo.png" group-title="HBO",HBO FAMILY HD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/9082
-#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO FAMILY SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO_Family_logo.png" group-title="HBO",HBO FAMILY SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/9083
-#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO PLUS FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%20PLUS.png" group-title="HBO",HBO PLUS FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/14132
-#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO PLUS FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%20PLUS.png" group-title="HBO",HBO PLUS FHD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/9078
-#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO PLUS HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%20PLUS.png" group-title="HBO",HBO PLUS HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/14137
-#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO PLUS HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%20PLUS.png" group-title="HBO",HBO PLUS HD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/9077
-#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO PLUS SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%20PLUS.png" group-title="HBO",HBO PLUS SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/9079
-#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO SIGNATURE FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%20SIGNATURE.png" group-title="HBO",HBO SIGNATURE FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/14133
-#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO SIGNATURE FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%20SIGNATURE.png" group-title="HBO",HBO SIGNATURE FHD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/9073
-#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO SIGNATURE HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%20SIGNATURE.png" group-title="HBO",HBO SIGNATURE HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/14138
-#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO SIGNATURE HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%20SIGNATURE.png" group-title="HBO",HBO SIGNATURE HD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/9072
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20HBO/HBO%20SIGNATURE.png" group-title="HBO",HBO SIGNATURE SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/9074
-#EXTINF:-1 tvg-id="historychannel.br" tvg-name="HISTORY CHANNEL FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/HISTORY.png" group-title="DOCUMENTÁRIO",HISTORY CHANNEL FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/14282
-#EXTINF:-1 tvg-id="historychannel.br" tvg-name="HISTORY CHANNEL FHD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/HISTORY.png" group-title="DOCUMENTÁRIO",HISTORY CHANNEL FHD
-http://vip.primeuhd.com:25461/1listadez19/10203000/8911
-#EXTINF:-1 tvg-id="historychannel.br" tvg-name="HISTORY CHANNEL HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/HISTORY.png" group-title="DOCUMENTÁRIO",HISTORY CHANNEL HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/14284
-#EXTINF:-1 tvg-id="historychannel.br" tvg-name="HISTORY CHANNEL HD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/HISTORY.png" group-title="DOCUMENTÁRIO",HISTORY CHANNEL HD
-http://vip.primeuhd.com:25461/1listadez19/10203000/8910
-#EXTINF:-1 tvg-id="historychannel.br" tvg-name="HISTORY CHANNEL SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/HISTORY.png" group-title="DOCUMENTÁRIO",HISTORY CHANNEL SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/8912
-#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="ID - INVESTIGAÇÃO DISCOVERY FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/InvestigationDiscovery.png" group-title="DOCUMENTÁRIO",ID - INVESTIGAÇÃO DISCOVERY FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/14271
-#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="ID - INVESTIGAÇÃO DISCOVERY FHD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/InvestigationDiscovery.png" group-title="DOCUMENTÁRIO",ID - INVESTIGAÇÃO DISCOVERY FHD
-http://vip.primeuhd.com:25461/1listadez19/10203000/8920
-#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="ID - INVESTIGAÇÃO DISCOVERY HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/InvestigationDiscovery.png" group-title="DOCUMENTÁRIO",ID - INVESTIGAÇÃO DISCOVERY HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/14279
-#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="ID - INVESTIGAÇÃO DISCOVERY HD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/InvestigationDiscovery.png" group-title="DOCUMENTÁRIO",ID - INVESTIGAÇÃO DISCOVERY HD
-http://vip.primeuhd.com:25461/1listadez19/10203000/8919
-#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="ID - INVESTIGAÇÃO DISCOVERY SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/InvestigationDiscovery.png" group-title="DOCUMENTÁRIO",ID - INVESTIGAÇÃO DISCOVERY SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/8921
-#EXTINF:-1 tvg-id="isat.br" tvg-name="I-SAT FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/I-SAT.png" group-title="FILMES E SÉRIES",I-SAT FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/14209
-#EXTINF:-1 tvg-id="isat.br" tvg-name="I-SAT HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/I-SAT.png" group-title="FILMES E SÉRIES",I-SAT HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/14210
-#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/1200px-Jovem_Pan_logo_2018.svg.png" group-title="NOTÍCIAS",JOVEM PAN TV FHD
-http://vip.primeuhd.com:25461/1listadez19/10203000/13028
-#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/LIFE%20TIME.png" group-title="VARIEDADES",LIFETIME FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/14313
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/LIFE%20TIME.png" group-title="VARIEDADES",LIFETIME FHD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/8892
-#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/LIFE%20TIME.png" group-title="VARIEDADES",LIFETIME HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/14314
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/LIFE%20TIME.png" group-title="VARIEDADES",LIFETIME HD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/9267
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/LIFE%20TIME.png" group-title="VARIEDADES",LIFETIME SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/9268
-#EXTINF:-1 tvg-id="maxbrasil.br" tvg-name="MAX FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/MAX.png" group-title="MAX",MAX FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/14183
-#EXTINF:-1 tvg-id="maxbrasil.br" tvg-name="MAX FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/MAX.png" group-title="MAX",MAX FHD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/9049
-#EXTINF:-1 tvg-id="DMax.de" tvg-name="MAX HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/MAX.png" group-title="MAX",MAX HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/14186
-#EXTINF:-1 tvg-id="DMax.de" tvg-name="MAX HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/MAX.png" group-title="MAX",MAX HD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/8409
-#EXTINF:-1 tvg-id="maxbrasil.br" tvg-name="MAX SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/MAX.png" group-title="MAX",MAX SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/9050
-#EXTINF:-1 tvg-id="maxprimebrasil.br" tvg-name="MAX PRIME FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/MAX%20PRIME.png" group-title="MAX",MAX PRIME FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/14185
-#EXTINF:-1 tvg-id="maxprimebrasil.br" tvg-name="MAX PRIME FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/MAX%20PRIME.png" group-title="MAX",MAX PRIME FHD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/9006
-#EXTINF:-1 tvg-id="maxprimebrasil.br" tvg-name="MAX PRIME HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/MAX%20PRIME.png" group-title="MAX",MAX PRIME HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/14188
-#EXTINF:-1 tvg-id="maxprimebrasil.br" tvg-name="MAX PRIME HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/MAX%20PRIME.png" group-title="MAX",MAX PRIME HD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/9047
-#EXTINF:-1 tvg-id="maxprimebrasil.br" tvg-name="MAX PRIME SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/MAX%20PRIME.png" group-title="MAX",MAX PRIME SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/9048
-#EXTINF:-1 tvg-id="maxup.br" tvg-name="MAX UP FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/Maxup.png" group-title="MAX",MAX UP FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/14184
-#EXTINF:-1 tvg-id="maxup.br" tvg-name="MAX UP FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/Maxup.png" group-title="MAX",MAX UP FHD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/9043
-#EXTINF:-1 tvg-id="maxUP.br" tvg-name="MAX UP HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/Maxup.png" group-title="MAX",MAX UP HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/14187
-#EXTINF:-1 tvg-id="maxUP.br" tvg-name="MAX UP HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/Maxup.png" group-title="MAX",MAX UP HD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/8404
-#EXTINF:-1 tvg-id="maxUP.br" tvg-name="MAX UP SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/Maxup.png" group-title="MAX",MAX UP SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/9044
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/MEGAPIX.png" group-title="FILMES E SÉRIES",MEGAPIX FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/14211
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/MEGAPIX.png" group-title="FILMES E SÉRIES",MEGAPIX FHD
-http://vip.primeuhd.com:25461/1listadez19/10203000/9003
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/MEGAPIX.png" group-title="FILMES E SÉRIES",MEGAPIX HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/14212
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/MEGAPIX.png" group-title="FILMES E SÉRIES",MEGAPIX HD
-http://vip.primeuhd.com:25461/1listadez19/10203000/9041
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/MEGAPIX.png" group-title="FILMES E SÉRIES",MEGAPIX SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/9042
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Musicas/MTV.png" group-title="MÚSICAS",MTV FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/14333
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Musicas/MTV.png" group-title="MÚSICAS",MTV FHD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/9139
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Musicas/MTV.png" group-title="MÚSICAS",MTV HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/14334
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Musicas/MTV.png" group-title="MÚSICAS",MTV HD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/9138
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Musicas/MTV.png" group-title="MÚSICAS",MTV SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/9140
-#EXTINF:-1 tvg-id="MTVLive.de" tvg-name="MTV LIVE FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Musicas/MTV_Live.png" group-title="MÚSICAS",MTV LIVE FHD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/9137
-#EXTINF:-1 tvg-id="MTVLive.de" tvg-name="MTV LIVE HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Musicas/MTV_Live.png" group-title="MÚSICAS",MTV LIVE HD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/9136
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Musicas/MULTISHOW.png" group-title="MÚSICAS",MULTISHOW FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/14335
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Musicas/MULTISHOW.png" group-title="MÚSICAS",MULTISHOW FHD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/9133
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Musicas/MULTISHOW.png" group-title="MÚSICAS",MULTISHOW HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/14336
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Musicas/MULTISHOW.png" group-title="MÚSICAS",MULTISHOW HD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/9132
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Musicas/MULTISHOW.png" group-title="MÚSICAS",MULTISHOW SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/9134
-#EXTINF:-1 tvg-id="Musicboxbrazil.br" tvg-name="MUSIC BOX BRASIL FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Musicas/MUSIC%20BOX%20BRASIL.png" group-title="MÚSICAS",MUSIC BOX BRASIL FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/14339
-#EXTINF:-1 tvg-id="MusicBox.ua" tvg-name="MUSIC BOX BRASIL HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Musicas/MUSIC%20BOX%20BRASIL.png" group-title="MÚSICAS",MUSIC BOX BRASIL HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/14340
-#EXTINF:-1 tvg-id="MusicBox.ua" tvg-name="MUSIC BOX BRAZIL SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Musicas/MUSIC%20BOX%20BRASIL.png" group-title="MÚSICAS",MUSIC BOX BRAZIL SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/9128
-#EXTINF:-1 tvg-id="natgeokids.br" tvg-name="NAT GEO KIDS FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/NAT%20GEO%20KIDS.png" group-title="INFANTIL",NAT GEO KIDS FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/14255
-#EXTINF:-1 tvg-id="natgeokids.br" tvg-name="NAT GEO KIDS FHD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/NAT%20GEO%20KIDS.png" group-title="INFANTIL",NAT GEO KIDS FHD
-http://vip.primeuhd.com:25461/1listadez19/10203000/9103
-#EXTINF:-1 tvg-id="natgeokids.br" tvg-name="NAT GEO KIDS HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/NAT%20GEO%20KIDS.png" group-title="INFANTIL",NAT GEO KIDS HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/14256
-#EXTINF:-1 tvg-id="natgeokids.br" tvg-name="NAT GEO KIDS HD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/NAT%20GEO%20KIDS.png" group-title="INFANTIL",NAT GEO KIDS HD
-http://vip.primeuhd.com:25461/1listadez19/10203000/9102
-#EXTINF:-1 tvg-id="natgeokids.br" tvg-name="NAT GEO KIDS SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/NAT%20GEO%20KIDS.png" group-title="INFANTIL",NAT GEO KIDS SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/9104
-#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="NAT GEO WILD FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/Nat%2520Geo%2520Wild.png" group-title="DOCUMENTÁRIO",NAT GEO WILD FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/14286
-#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="NAT GEO WILD FHD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/Nat%2520Geo%2520Wild.png" group-title="DOCUMENTÁRIO",NAT GEO WILD FHD
-http://vip.primeuhd.com:25461/1listadez19/10203000/8908
-#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="NAT GEO WILD HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/Nat%2520Geo%2520Wild.png" group-title="DOCUMENTÁRIO",NAT GEO WILD HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/14288
-#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="NAT GEO WILD HD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/Nat%2520Geo%2520Wild.png" group-title="DOCUMENTÁRIO",NAT GEO WILD HD
-http://vip.primeuhd.com:25461/1listadez19/10203000/8906
-#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="NAT GEO WILD SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/Nat%2520Geo%2520Wild.png" group-title="DOCUMENTÁRIO",NAT GEO WILD SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/8907
-#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/national-geographic.png" group-title="DOCUMENTÁRIO",NATIONAL GEOGRAPHIC FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/14285
-#EXTINF:-1 tvg-id="NatGeoHD.gr" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/national-geographic.png" group-title="DOCUMENTÁRIO",NATIONAL GEOGRAPHIC FHD
-http://vip.primeuhd.com:25461/1listadez19/10203000/8903
-#EXTINF:-1 tvg-id="NatGeoHD.gr" tvg-name="NATIONAL GEOGRAPHIC HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/national-geographic.png" group-title="DOCUMENTÁRIO",NATIONAL GEOGRAPHIC HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/14287
-#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/national-geographic.png" group-title="DOCUMENTÁRIO",NATIONAL GEOGRAPHIC HD
-http://vip.primeuhd.com:25461/1listadez19/10203000/8902
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/national-geographic.png" group-title="DOCUMENTÁRIO",NATIONAL GEOGRAPHIC SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/8904
-#EXTINF:-1 tvg-id="Nhk.br" tvg-name="NHK HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/NHK.png" group-title="VARIEDADES",NHK HD²
-http://vip.primeuhd.com:25461/1listadez19/10203000/8890
-#EXTINF:-1 tvg-id="Nhk.br" tvg-name="NHK SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/NHK.png" group-title="VARIEDADES",NHK SD
-http://vip.primeuhd.com:25461/1listadez19/10203000/8493
-#EXTINF:-1 tvg-id="nickjr.br" tvg-name="NICK JUNIOR FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/NICKJR.png" group-title="INFANTIL",NICK JUNIOR FHD H265
-http://vip.primeuhd.com:25461/1listadez19/10203000/14257
-#EXTINF:-1 tvg-id="nickjr.br" tvg-name="NICK JUNIOR FHD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/NICKJR.png" group-title="INFANTIL",NICK JUNIOR FHD
-http://vip.primeuhd.com:25461/1listadez19/10203000/9100
-#EXTINF:-1 tvg-id="nickjr.br" tvg-name="NICK JUNIOR HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/NICKJR.png" group-title="INFANTIL",NICK JUNIOR HD¹
-http://vip.primeuhd.com:25461/1listadez19/10203000/14258
-#EXTINF:-1 tvg-id="nickjr.br" tvg-name="NICK JUNIOR HD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/NICKJR.png" group-title="INFANTIL",NICK JUNIOR HD
+http://vip.primeuhd.com:25461/2listadez19/102030/14204
