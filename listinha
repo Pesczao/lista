@@ -471,67 +471,67 @@ http://csrv.me:80/live/zH3ZCH1Q/QdcdqSEG/1770.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-logo="http://iv.pe/R6D" group-title="Infantis",Nickelodeon HD
 http://csrv.me:80/live/zH3ZCH1Q/QdcdqSEG/1768.m3u8
 #EXTM3U
-#EXTINF:-1,Premier Club 4K
+#EXTINF:-1 group-title="", Premier Club 4K
 http://us.cdniptv.com:9088/ms_premier_club.m3u8?md5=yrn-PyTQjTR_toxSumsM9g&expires=1572349859&dd=3844886&ip=177.86.149.149&devicetype=android&u=3844886&p=3614453
-#EXTINF:-1,Premier Club
+#EXTINF:-1 group-title="", Premier Club
 http://us.cdniptv.com:9088/ms_premier_club.m3u8?md5=lcWqxso7-VJiCq2LwINTZA&expires=1569325534&dd=3844886&ip=191.242.113.179&devicetype=android&u=3844886&p=3614453
-#EXTINF:-1,Premier 2 4K
+#EXTINF:-1 group-title="", Premier 2 4K
 http://us.cdniptv.com:9088/ms_premier_2hd.m3u8?md5=yrn-PyTQjTR_toxSumsM9g&expires=1572349859&dd=3844886&ip=177.86.149.149&devicetype=android&u=3844886&p=3614453
-#EXTINF:-1,Premier 3 4K
+#EXTINF:-1 group-title="", Premier 3 4K
 http://us.cdniptv.com:9088/ms_premier_3hd.m3u8?md5=yrn-PyTQjTR_toxSumsM9g&expires=1572349859&dd=3844886&ip=177.86.149.149&devicetype=android&u=3844886&p=3614453
-#EXTINF:-1,Premier 4 4K
+#EXTINF:-1 group-title="", Premier 4 4K
 http://us.cdniptv.com:9088/ms_premier_4hd.m3u8?md5=yrn-PyTQjTR_toxSumsM9g&expires=1572349859&dd=3844886&ip=177.86.149.149&devicetype=android&u=3844886&p=3614453
-#EXTINF:-1,Premier Club 4K
+#EXTINF:-1 group-title="", Premier Club 4K
 http://us.cdniptv.com:9088/ms_premier_club.m3u8?md5=yrn-PyTQjTR_toxSumsM9g&expires=1572349859&dd=3844886&ip=177.86.149.149&devicetype=android&u=3844886&p=3614453
-#EXTINF:-1,Premier 2 4K
+#EXTINF:-1 group-title="", Premier 2 4K
 http://us.cdniptv.com:9088/ms_premier_2hd.m3u8?md5=yrn-PyTQjTR_toxSumsM9g&expires=1572349859&dd=3844886&ip=177.86.149.149&devicetype=android&u=3844886&p=3614453
-#EXTINF:-1,Premier 3 4K
+#EXTINF:-1 group-title="", Premier 3 4K
 http://us.cdniptv.com:9088/ms_premier_3hd.m3u8?md5=yrn-PyTQjTR_toxSumsM9g&expires=1572349859&dd=3844886&ip=177.86.149.149&devicetype=android&u=3844886&p=3614453
-#EXTINF:-1,Premier 4 4K
+#EXTINF:-1 group-title="", Premier 4 4K
 http://us.cdniptv.com:9088/ms_premier_4hd.m3u8?md5=yrn-PyTQjTR_toxSumsM9g&expires=1572349859&dd=3844886&ip=177.86.149.149&devicetype=android&u=3844886&p=3614453
-#EXTINF:-1,Premier Clubes 2
+#EXTINF:-1 group-title="", Premier Clubes 2
 http://us.cdniptv.com:9088/ms_premier_club.m3u8?md5=yrn-PyTQjTR_toxSumsM9g&expires=1572349859&dd=3844886&ip=177.86.149.149&devicetype=android&u=3844886&p=3614453
-#EXTINF:-1,Premier OPS 2
+#EXTINF:-1 group-title="", Premier OPS 2
 http://us.cdniptv.com:9088/ms_premier_2hd.m3u8?md5=yrn-PyTQjTR_toxSumsM9g&expires=1572349859&dd=3844886&ip=177.86.149.149&devicetype=android&u=3844886&p=3614453
-#EXTINF:-1,Premier OPS 3
+#EXTINF:-1 group-title="", Premier OPS 3
 http://us.cdniptv.com:9088/ms_premier_3hd.m3u8?md5=yrn-PyTQjTR_toxSumsM9g&expires=1572349859&dd=3844886&ip=177.86.149.149&devicetype=android&u=3844886&p=3614453
-#EXTINF:-1,Premier OPS 4
+#EXTINF:-1 group-title="", Premier OPS 4
 http://us.cdniptv.com:9088/ms_premier_4hd.m3u8?md5=yrn-PyTQjTR_toxSumsM9g&expires=1572349859&dd=3844886&ip=177.86.149.149&devicetype=android&u=3844886&p=3614453
-#EXTINF:-1,Fox Sport 1 4K
+#EXTINF:-1 group-title="Esportes", Fox Sport 1 4K
 http://us.cdniptv.com:9088/hls/ms_fox_sport_1.m3u8?md5=yrn-PyTQjTR_toxSumsM9g&expires=1572349859&dd=3844886&ip=177.86.149.149&devicetype=android&u=3844886&p=3614453
-#EXTINF:-1,Fox Sport 2 4K
+#EXTINF:-1 group-title="Esportes", Fox Sport 2 4K
 http://us.cdniptv.com:9088/hls/ms_fox_sport_2.m3u8?md5=yrn-PyTQjTR_toxSumsM9g&expires=1572349859&dd=3844886&ip=177.86.149.149&devicetype=android&u=3844886&p=3614453
-#EXTINF:-1,Sport TV 1 4K
+#EXTINF:-1 group-title="Esportes", Sport TV 1 4K
 http://us.cdniptv.com:9088/hls/ms_sport_tv_1.m3u8?md5=yrn-PyTQjTR_toxSumsM9g&expires=1572349859&dd=3844886&ip=177.86.149.149&devicetype=android&u=3844886&p=3614453
-#EXTINF:-1,Sport TV 2 4K
+#EXTINF:-1 group-title="Esportes", Sport TV 2 4K
 http://us.cdniptv.com:9088/hls/ms_sport_tv_2.m3u8?md5=yrn-PyTQjTR_toxSumsM9g&expires=1572349859&dd=3844886&ip=177.86.149.149&devicetype=android&u=3844886&p=3614453
-#EXTINF:-1,Sport TV 3 4K
+#EXTINF:-1 group-title="Esportes", Sport TV 3 4K
 http://us.cdniptv.com:9088/hls/ms_sport_tv_3.m3u8?md5=yrn-PyTQjTR_toxSumsM9g&expires=1572349859&dd=3844886&ip=177.86.149.149&devicetype=android&u=3844886&p=3614453
-#EXTINF:-1,Globo PR 4K
+#EXTINF:-1 group-title="Canais Abertos", Globo PR 4K
 http://us.cdniptv.com:9088/hls/ms_globo_foz.m3u8?md5=yrn-PyTQjTR_toxSumsM9g&expires=1572349859&dd=3844886&ip=177.86.149.149&devicetype=android&u=3844886&p=3614453
-#EXTINF:-1,Globo RJ 4K
+#EXTINF:-1 group-title="Canais Abertos", Globo RJ 4K
 http://us.cdniptv.com:9088/hls/ms_globopr.m3u8?md5=yrn-PyTQjTR_toxSumsM9g&expires=1572349859&dd=3844886&ip=177.86.149.149&devicetype=android&u=3844886&p=3614453
-#EXTINF:-1, ESPN 2 4K
+#EXTINF:-1 group-title="Esportes",  ESPN 2 4K
 http://us.cdniptv.com:9088/hls/ms_espn_plus.m3u8?md5=yrn-PyTQjTR_toxSumsM9g&expires=1572349859&dd=3844886&ip=177.86.149.149&devicetype=android&u=3844886&p=3614453
-#EXTINF:-1,ESPN Extra HD
+#EXTINF:-1 group-title="Esportes", ESPN Extra HD
 http://us.cdniptv.com:9088/hls/ms_espn_extra.m3u8?md5=yrn-PyTQjTR_toxSumsM9g&expires=1572349859&dd=3844886&ip=177.86.149.149&devicetype=android&u=3844886&p=3614453
-#EXTINF:-1,Fox Sport 1 4K
+#EXTINF:-1 group-title="Esportes", Fox Sport 1 4K
 http://us.cdniptv.com:9088/hls/ms_fox_sport_1.m3u8?md5=yrn-PyTQjTR_toxSumsM9g&expires=1572349859&dd=3844886&ip=177.86.149.149&devicetype=android&u=3844886&p=3614453
-#EXTINF:-1,Fox Sport 2 4K
+#EXTINF:-1 group-title="Esportes", Fox Sport 2 4K
 http://us.cdniptv.com:9088/hls/ms_fox_sport_2.m3u8?md5=yrn-PyTQjTR_toxSumsM9g&expires=1572349859&dd=3844886&ip=177.86.149.149&devicetype=android&u=3844886&p=3614453
-#EXTINF:-1,Sport TV 1 4K
+#EXTINF:-1 group-title="Esportes", Sport TV 1 4K
 http://us.cdniptv.com:9088/hls/ms_sport_tv_1.m3u8?md5=yrn-PyTQjTR_toxSumsM9g&expires=1572349859&dd=3844886&ip=177.86.149.149&devicetype=android&u=3844886&p=3614453
-#EXTINF:-1,Sport TV 2 4K
+#EXTINF:-1 group-title="Esportes", Sport TV 2 4K
 http://us.cdniptv.com:9088/hls/ms_sport_tv_2.m3u8?md5=yrn-PyTQjTR_toxSumsM9g&expires=1572349859&dd=3844886&ip=177.86.149.149&devicetype=android&u=3844886&p=3614453
-#EXTINF:-1,Sport TV 3 4K
+#EXTINF:-1 group-title="Esportes", Sport TV 3 4K
 http://us.cdniptv.com:9088/hls/ms_sport_tv_3.m3u8?md5=yrn-PyTQjTR_toxSumsM9g&expires=1572349859&dd=3844886&ip=177.86.149.149&devicetype=android&u=3844886&p=3614453
-#EXTINF:-1,Premier Club 4K
+#EXTINF:-1 group-title="", Premier Club 4K
 http://us.cdniptv.com:9088/ms_premier_club.m3u8?md5=yrn-PyTQjTR_toxSumsM9g&expires=1572349859&dd=3844886&ip=177.86.149.149&devicetype=android&u=3844886&p=3614453
-#EXTINF:-1,Premier 2 4K
+#EXTINF:-1 group-title="", Premier 2 4K
 http://us.cdniptv.com:9088/ms_premier_2hd.m3u8?md5=yrn-PyTQjTR_toxSumsM9g&expires=1572349859&dd=3844886&ip=177.86.149.149&devicetype=android&u=3844886&p=3614453
-#EXTINF:-1,Premier 3 4K
+#EXTINF:-1 group-title="", Premier 3 4K
 http://us.cdniptv.com:9088/ms_premier_3hd.m3u8?md5=yrn-PyTQjTR_toxSumsM9g&expires=1572349859&dd=3844886&ip=177.86.149.149&devicetype=android&u=3844886&p=3614453
-#EXTINF:-1,Premier 4 4K
+#EXTINF:-1 group-title="", Premier 4 4K
 http://us.cdniptv.com:9088/ms_premier_4hd.m3u8?md5=yrn-PyTQjTR_toxSumsM9g&expires=1572349859&dd=3844886&ip=177.86.149.149&devicetype=android&u=3844886&p=3614453
 #EXTINF:-1 ,SBT
 http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
