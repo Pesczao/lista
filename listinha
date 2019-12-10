@@ -149,13 +149,11 @@ http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
 http://tv01.logicahost.com.br:1935/tvuai/tvuai/live.m3u8?LISTASDAGLAU
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/VFDVsWK.jpg" group-title="",Web TV Minas
 http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8
-#EXTINF:-1,group-title="Filmes", Cine Sky
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
-#EXTINF:0 group-title="CANAIS BRASILEIROS", GV NEWS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" group-title="",GV NEWS
 http://173.236.10.10:1935/gvnews/gvnews/playlist.m3u8
-#EXTINF:0 group-title="CANAIS BRASILEIROS", All Sports
-http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/Qc1hM0u.jpg " group-title="",SBT Caruaru
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" group-title="",All Sports
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" group-title="",Cine Sky
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" group-title="",SBT Caruaru
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?
-#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/650/mobileicon/ef3072346f4c1255e2a9e03d87a7a86f.png" group-title="Radios",BIGMIX TV
-https://5c64355d4b57c.streamlock.net:1936/bigmix/bigmix/chunklist_w1815015955.m3u8
