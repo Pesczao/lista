@@ -157,3 +157,5 @@ http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" group-title="",SBT Caruaru
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?
+#EXTINF:-1 Tv Brasil Animada
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
