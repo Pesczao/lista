@@ -411,10 +411,6 @@ http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
 http://sa-all22.secdn.net/cbtv-channel/play/mp4:stream/chunklist_w1352920024.m3u8
 #EXTINF:-1 ,TV 538.
 http://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q1.m3u8
-#EXTINF:-1 ,SKY NEWS
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:-1 ,SKY LIFE TG24
-http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 ,FRANCE 24 HD - FRA
 http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
 #EXTINF:-1 ,BLOOMBERG TV
@@ -531,8 +527,6 @@ http://wse7.player.tv.br:1935/iolandomauriciodasilva800/iolandomauriciodasilva80
 http://187.111.97.45:1935/webtv/webtv/live.m3u8?LISTASGLAU
 #EXTINF:-1 ,REAL MADRID TV HD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:-1 ,Red Bull TV
-http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
 #EXTINF:-1 ,ESPORTE INTERATIVO 2
 http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/5801261189b415d108f9603c/publish/media_2500.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
 #EXTINF:-1 ,NOVA CINEMA 3
@@ -545,8 +539,6 @@ http://evpp.mm.uol.com.br:1935/redetv2/redetv2/live.m3u8?LISTASGLAU
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 #EXTINF:-1 ,All Sports 2
 http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8?Arlen
-#EXTINF:-1 ,CDO Deportes
-http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w822432298.m3u8?Arlen
 #EXTINF:-1 ,Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 ,Viasat Sport
@@ -577,8 +569,6 @@ http://streamingbr.com:1935/st87-live/st87-live/livestream.m3u8
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 ,RETRO MUSIC HD
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-#EXTINF:-1 ,TV Cultura GO
-http://rsync.com.br:1935/rsync00026/rsync.sdp/playlist.m3u8?Arlen
 #EXTINF:-1 ,TV Cultura PA 1
 http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8?Arlen
 #EXTINF:-1 ,TV Cultura PA 2
