@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="+globosat.br" tvg-logo="http://static.clubsrv.me/logos/canais/eiplus.png" group-title="Esportes",EI Plus 1 HD
-https://pesczao.000webhostapp.com/29887.m3u8
+https://pesczao.000webhostapp.com/public_html/29887.m3u8
 #EXTINF:-1 tvg-id="+globosat.br" tvg-logo="http://static.clubsrv.me/logos/canais/eiplus.png" group-title="Esportes",EI Plus 2 HD
-https://pesczao.000webhostapp.com/29886.m3u8
+https://pesczao.000webhostapp.com/public_html/29886.m3u8
 #EXTINF:-1 tvg-id="+globosat.br" tvg-logo="http://static.clubsrv.me/logos/canais/eiplus.png" group-title="Esportes",EI Plus 3 HD
-https://pesczao.000webhostapp.com/29885.m3u8
+https://pesczao.000webhostapp.com/public_html/29885.m3u8
 #EXTINF:-1 tvg-id="+globosat.br" tvg-logo="http://static.clubsrv.me/logos/canais/eiplus.png" group-title="Esportes",EI Plus 4 HD
-https://pesczao.000webhostapp.com/29884.m3u8
+https://pesczao.000webhostapp.com/public_html/29884.m3u8
 #EXTINF:-1 tvg-id="+globosat.br" tvg-logo="http://static.clubsrv.me/logos/canais/eiplus.png" group-title="Esportes",EI Plus 5 HD
-https://pesczao.000webhostapp.com/29883.m3u8
+https://pesczao.000webhostapp.com/public_html/29883.m3u8
 #EXTINF:-1 tvg-id="+globosat.br" tvg-logo="http://static.clubsrv.me/logos/canais/eiplus.png" group-title="Esportes",EI Plus 6 HD
-https://pesczao.000webhostapp.com/29882.m3u8
+https://pesczao.000webhostapp.com/public_html/29882.m3u8
 #EXTINF:-1 tvg-id="+globosat.br" tvg-logo="http://iv.pe/iqo" group-title="Esportes",Ei Plus HD
 http://csrv.me:80/live/Ur9ggJSE/ezbHPAYN/1645.m3u8
 #EXTINF:-1,TC FUN
