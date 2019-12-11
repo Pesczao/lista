@@ -105,6 +105,10 @@ http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
 #EXTINF:-1 ,SBT PE HD
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", RecordTV Natal
+https://5ad482a77183d.streamlock.net/raniere73gmail.com/5d864557c902eb4a1e8def33/chunklist_w1009622126.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", RecordTV Bahia
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvcidade.png" group-title="Canais Abertos",Tv Cidade Verde (SBT PI)
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/0L5tCLH.png" group-title="Shop",1001 Noites
