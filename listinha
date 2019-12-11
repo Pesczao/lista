@@ -99,11 +99,11 @@ http://us.cdniptv.com:9088/hls/ms_tc_premium.m3u8
 http://us.cdniptv.com:9088/hls/ms_sport_tv_3.m3u8
 #EXTINF:-1,ESPN BRASIL
 http://us.cdniptv.com:9088/hls/ms_espn_brasil.m3u8
-#EXTINF:-1 ,SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
-#EXTINF:-1 ,SBT PI HD
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/p1Q6udv.png" ,SBT SP
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8?Arlen
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/p1Q6udv.png" ,SBT PI FHD
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
-#EXTINF:-1 ,SBT PE HD
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/p1Q6udv.png" ,SBT PE HD
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", RecordTV Natal
 https://5ad482a77183d.streamlock.net/raniere73gmail.com/5d864557c902eb4a1e8def33/chunklist_w1009622126.m3u8
@@ -184,8 +184,6 @@ http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
 #EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/cJC3PPk.png" group-title="",RedeTV!
 https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1209374997.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="",SBT
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="",SBT
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="",SBT
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8
@@ -195,12 +193,6 @@ http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1497612515_b216000_sleng.m3u
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w199492672_b216000_sleng.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="",SBT
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="",SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="",SBT
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="",SBT
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w654628617_b216000_sleng.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/IceKUjf.png" group-title="",Sesc TV
 https://slbps-sambatech.akamaized.net/live/2472%2C5164%2C6c1f2e9d204aab6374f0bec27834aa95%3Bbase64np%3BPvsLdjEM0QdLO5Q%21/amlst%3APvvzbyxH1AZUexiy/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/YrBt8gZ.png" group-title="",Summer TV
@@ -311,10 +303,6 @@ http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?Compartilhandolink
 #EXTINF:-1 ,CAT TVE
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8
-#EXTINF:-1 ,MTV BRASIL
-http://178.132.4.88:25461/live/wallace/1234/128.m3u8?token=TxAMVEBeQwMQBABeWwlSUFdXBgBWWFYAUlAGVgRWA1IAClYAVlNQWAYUGxoRRRBRV1hpXFYbDwIDWh5ARBcHEGtbABcJFFAJAQYDCkAdQEBfWFMXCAkZEUELVkALRlBQAgNWFx8UBEFGU0VWA109UFNDX1ZXGw9dRA5eThMLDD1QVwlUXVJDAxAHFRRAWBFEFA8Ud0BYRlpdQmYHXQEBDVkSNxtyGEMVEFReTBBQFlEUDxQEAwgGER1AUQ1EChYQTRBeF3FkQxUQU09MB18RXVlbFA8QVAZGCUAeQFgXPRBRQRBHVlcMXEAUDRpSE04WW1ROalFWW11UAUYLXgoRQA4QVRcfFAxWXF9DVxBuEl1SFwwXAAsCBQBATw==
-#EXTINF:-1 ,MTV CLIPES 1
-http://rtmp.one.by:1200
 #EXTINF:-1 ,REDE RC
 http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
 #EXTINF:-1 ,FOX HITS
@@ -499,8 +487,6 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
 #EXTINF:-1 ,ABU DABI SPORT 1 HD (ON)
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?Compartilhandolink
-#EXTINF:-1 ,SBT PE SD
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2020510264_b131000_sleng.m3u8
 #EXTINF:-1 ,REDE TV RJ
 http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
 #EXTINF:-1 ,TV APARECIDA
@@ -569,8 +555,6 @@ http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/live.m3u8
 http://tv01.logicahost.com.br:1935/dgrau/dgrau/live.m3u8
 #EXTINF:-1 ,ALPHA CHANNEL
 http://streamingbr.com:1935/st87-live/st87-live/livestream.m3u8
-#EXTINF:-1 ,MTV
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 ,RETRO MUSIC HD
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 #EXTINF:-1 ,TV Cultura PA 1
@@ -579,12 +563,6 @@ http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8?Arlen
 http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8?Arlen
 #EXTINF:-1 ,TV Cultura PR
 http://200.189.113.201/hls/tve.m3u8?Arlen
-#EXTINF:-1 ,SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8?Arlen
-#EXTINF:-1 ,SBT PI
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?Arlen
-#EXTINF:-1 ,SBT PE
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8
 #EXTINF:-1 ,Rede TV RS
 http://wse8.player.tv.br:1935/rafael926/encoder/playlist.m3u8?Arlen
 #EXTINF:-1 ,Classique TV 1
