@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Nautical
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/nauticalchannel_720p/chunks.m3u8?RzaOeumcqD1v8-V711Hx5FPC5ACvVOPRmswbvCQsg000tf29RFiEbngwR1pdR4Whk6nizkV-zwq_VmRmqXP35TkK6JeLbg9GEIv4sUyLOEdm4mejRAOq1gWYKf7Zegc
 #EXTINF:-1,TC FUN
 http://us.cdniptv.com:9088/hls/ms_tc_fun.m3u8
 #EXTINF:-1,TC PIPOCA
