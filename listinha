@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1 ,PT:24Kitchen
-http://tv2iptv.com:8000/Janel/janel123/8078
-#EXTINF:-1 ,PT:A&E
-http://tv2iptv.com:8000/Janel/janel123/8098
-#EXTINF:-1 ,PT:A Bola TV
-http://tv2iptv.com:8000/Janel/janel123/8118
-#EXTINF:-1 ,PT:AXN_BLACK_HD
-http://tv2iptv.com:8000/Janel/janel123/8144
+#EXTINF:-1,Nickelodeon HD
+http://lindaflor.net:8080/emerson84/84513809/362?u
+sername=emerson84&passwor
+d=84513809
 #EXTINF:-1 ,PT:AXN_WHITE_HD
 http://tv2iptv.com:8000/Janel/janel123/8145
 #EXTINF:-1 ,PT:bABY_TV
