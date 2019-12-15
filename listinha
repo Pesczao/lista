@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Fox.pl" tvg-name="Fox HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/148.png" group-title="Rozrywka:",Fox HD
+http://cdn-nl-02-eu.planetapl.tv/fox-hd/tracks-v1a1/mono.m3u8?token=5.191162.193934.60%7CMmxZYXhwYXY0RlE3M1E1VExpZEQ1dVl3T0hSaVJUdnR0RjZiOFZGUUFEU0hZRkRobktOdzBab1hReXRLdW9DQ1ZITUQ4am9jWFVOdTROamM5UHc4VG52b2RuK3BjNkZSMnFZMENDQmJNK2JWbXAxeHp5aC9sQTBaT0MzMkoxSmRpSHc2WXRkZjN0VEpsOU1JUkwxSkNHWDJDU2tpZGJGNEZrbXZleHJyUEswWXJSVVVSbWw4bEt6YVBJZ2w4Z25OWW5oazhxOFRFNU1iTytWWm1QREJwbjFJRFZJVitTNHJ2WTV2cGVkakxyb01JMDhvUHlNbmRrSVRTZWFxb094d2NUSkZxalZvcFJrRkowc1ZVcWMyaGo0YTllK2NNdERCcDBkRTMvcVZkWS9SZVdzSXZod2crYmkyNXpOMXhuTUQvWGFpVlYyakUrZDIwNWdjSHF2a2VKWTd1QjV1LzJMSjJsb0gvTEhoUWFCaVZGcVFSV0JJcEZJTnk3WmIrdGh2VmlnTWExdG1yK2k2Y1oyeUhuYmtpRFBtdmh6cWpLaUtpYjhxTVlEemxudDFrY3F3MndhbmRXUkpaVjcva1NkNzBMUGRXdlR6WUxUSklFcVNRNktWOXc9PXxEdUtZd2MrUzhnb2t5ZThheEszMHYzbGU1a3lIbUVjY01VcEVRZ2NJSVdVPQ%3D%3DD
 #EXTINF:-1,Globo SP HD
 https://globolive.akamaized.net/d/c/x2800/s/hls-globo-sp1/hls-globo-sp1_2316/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
 #EXTINF:-1 tvg-id="GLOBO RJ" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV Aberta",Globo RJ HD
