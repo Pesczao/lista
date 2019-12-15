@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Lista IPTV Brasil HD",CARTOON NETWORK
-http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
-#EXTINF:-1 group-title="Lista IPTV Brasil HD",CARTOON NETWORK
-http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8?fluxustv.m3u8
 #EXTINF:-1,TC ACTION
 http://us.cdniptv.com:9088/hls/ms_tc_action.m3u8
 #EXTINF:-1,TC TOUCH
