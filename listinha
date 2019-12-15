@@ -1,54 +1,153 @@
-#EXTM3U
-#EXTINF:-1 ,BR | E!
+#EXTINF:0,BR | Canal Brasil
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5640.m3u8
+#EXTINF:0,BR | E!
 http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5641.m3u8
-#EXTINF:-1 ,BR | ESPN Brasil
+#EXTINF:0,BR | E! MAXX 2
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5642.m3u8
+#EXTINF:0,BR | Ei max 1
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5643.m3u8
+#EXTINF:0,BR | ESPN Brasil
 http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5644.m3u8
-#EXTINF:-1 ,BR | ESPN HD
+#EXTINF:0,BR | ESPN HD
 http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5645.m3u8
-#EXTINF:-1 ,BR | Fox Sports 1
+#EXTINF:0,BR | ESPN plus
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5646.m3u8
+#EXTINF:0,BR | Fox Sports 1
 http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5647.m3u8
-#EXTINF:-1 ,BR | Fox Sports 2
+#EXTINF:0,BR | Fox Sports 2
 http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5648.m3u8
-#EXTINF:-1 ,BR | Globo News
+#EXTINF:0,BR | GLOBAL TV
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5649.m3u8
+#EXTINF:0,BR | Globo News
 http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5650.m3u8
-#EXTINF:-1 ,BR | Globo Premium
+#EXTINF:0,BR | Globo Premium
 http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5651.m3u8
-#EXTINF:-1 ,BR | GNT
+#EXTINF:0,BR | Gloob
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5652.m3u8
+#EXTINF:0,BR | GNT
 http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5653.m3u8
-#EXTINF:-1 ,BR | Nick
+#EXTINF:0,BR | HBO Signature
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5654.m3u8
+#EXTINF:0,BR | Investiga
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5655.m3u8
+#EXTINF:0,BR | Max
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5656.m3u8
+#EXTINF:0,BR | Max Prime
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5657.m3u8
+#EXTINF:0,BR | MegaPix
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5658.m3u8
+#EXTINF:0,BR | Nick
 http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5659.m3u8
-#EXTINF:-1 ,BR: Discovery
+#EXTINF:0,BR | Nick Jr
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5660.m3u8
+#EXTINF:0,BR | Paramount
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5661.m3u8
+#EXTINF:0,BR | Premiere Clubes
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5662.m3u8
+#EXTINF:0,BR | REDE RECORD
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5663.m3u8
+#EXTINF:0,BR | REDE TV
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5664.m3u8
+#EXTINF:0,BR | Sport TV
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5665.m3u8
+#EXTINF:0,BR | Sport TV2
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5666.m3u8
+#EXTINF:0,BR | Sport TV3
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5667.m3u8
+#EXTINF:0,BR | Studio Universal
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5668.m3u8
+#EXTINF:0,BR | Tru TV
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5669.m3u8
+#EXTINF:0,BR | TV BRASIL CENTRAL
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5670.m3u8
+#EXTINF:0,BR | TV Globo
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5671.m3u8
+#EXTINF:0,BR | TV Globo Premium
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5672.m3u8
+#EXTINF:0,BR | Universal Brasil
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5673.m3u8
+#EXTINF:0,BR: A&E
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5599.m3u8
+#EXTINF:0,BR: ANIMAL PLANET
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5600.m3u8
+#EXTINF:0,BR: AXN
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5601.m3u8
+#EXTINF:0,BR: BAND NEWS
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5602.m3u8
+#EXTINF:0,BR: BAND SPORTS
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5603.m3u8
+#EXTINF:0,BR: Boomerang
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5604.m3u8
+#EXTINF:0,BR: Canal Sony
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5605.m3u8
+#EXTINF:0,BR: Cartoon Network
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5606.m3u8
+#EXTINF:0,BR: CINEMAX
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5607.m3u8
+#EXTINF:0,BR: Combate
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5608.m3u8
+#EXTINF:0,BR: COMEDY CENTRAL
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5609.m3u8
+#EXTINF:0,BR: Discovery
 http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5610.m3u8
-#EXTINF:-1 ,BR: Discovery Civilization
+#EXTINF:0,BR: Discovery Civilization
 http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5611.m3u8
-#EXTINF:-1 ,BR: Discovery Home Health
+#EXTINF:0,BR: Discovery Home Health
 http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5612.m3u8
-#EXTINF:-1 ,BR: Discovery Turbo
+#EXTINF:0,BR: Discovery Turbo
 http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5613.m3u8
-#EXTINF:-1 ,BR: Disney Jr
+#EXTINF:0,BR: Disney
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5614.m3u8
+#EXTINF:0,BR: Disney Jr
 http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5615.m3u8
-#EXTINF:-1 ,BR: Disney XD
+#EXTINF:0,BR: Disney XD
 http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5616.m3u8
-#EXTINF:-1 ,BR: H2
+#EXTINF:0,BR: Fox
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5617.m3u8
+#EXTINF:0,BR: Fox Life
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5618.m3u8
+#EXTINF:0,BR: H2
 http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5619.m3u8
-#EXTINF:-1 ,BR: HBO
+#EXTINF:0,BR: HBO
 http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5620.m3u8
-#EXTINF:-1 ,BR: HBO 2
+#EXTINF:0,BR: HBO 2
 http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5621.m3u8
-#EXTINF:-1 ,BR: HBO Family
+#EXTINF:0,BR: HBO Family
 http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5622.m3u8
-#EXTINF:-1 ,BR: HBO Plus
+#EXTINF:0,BR: HBO Plus
 http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5623.m3u8
-#EXTINF:-1 ,BR: History
+#EXTINF:0,BR: History
 http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5624.m3u8
-#EXTINF:-1 ,BR: Space Brasil
+#EXTINF:0,BR: National Geographic
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5625.m3u8
+#EXTINF:0,BR: Space Brasil
 http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5626.m3u8
-#EXTINF:-1 ,BR: Syfy
+#EXTINF:0,BR: Syfy
 http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5627.m3u8
-#EXTINF:-1 ,BR: TCM
+#EXTINF:0,BR: TBS Brasil
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5628.m3u8
+#EXTINF:0,BR: TCM
 http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5629.m3u8
-#EXTINF:-1 ,BR: Telecine Action
+#EXTINF:0,BR: Telecine Action
 http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5630.m3u8
+#EXTINF:0,BR: Telecine Cult
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5631.m3u8
+#EXTINF:0,BR: Telecine Fun
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5632.m3u8
+#EXTINF:0,BR: Telecine Pipoca
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5633.m3u8
+#EXTINF:0,BR: Telecine Premium
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5634.m3u8
+#EXTINF:0,BR: Telecine Touch
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5635.m3u8
+#EXTINF:0,BR: TNT
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5636.m3u8
+#EXTINF:0,BR: TNT Series
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5637.m3u8
+#EXTINF:0,BR: Universal
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5638.m3u8
+#EXTINF:0,BR: WARNER
+http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5639.m3u8
 #EXTINF:-1,TC ACTION
 http://us.cdniptv.com:9088/hls/ms_tc_action.m3u8
 #EXTINF:-1,TC TOUCH
