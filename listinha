@@ -1,30 +1,4 @@
 #EXTM3U
-#EXTINF:-1,TELECINE ACTION FHD (DUAL AUDIO)
-http://painel.ebanonet.com.br:25461/a811b3j79nBr/5x9GdlNh20j/8141
-#EXTINF:-1,TELECINE ACTION HD
-http://painel.ebanonet.com.br:25461/a811b3j79nBr/5x9GdlNh20j/6080
-#EXTINF:-1,TELECINE ACTION SD
-http://painel.ebanonet.com.br:25461/a811b3j79nBr/5x9GdlNh20j/4320
-#EXTINF:-1,TELECINE CULT HD
-http://painel.ebanonet.com.br:25461/a811b3j79nBr/5x9GdlNh20j/10247
-#EXTINF:-1,TELECINE CULT SD
-http://painel.ebanonet.com.br:25461/a811b3j79nBr/5x9GdlNh20j/4319
-#EXTINF:-1,TELECINE PIPOCA FHD (DUAL AUDIO)
-http://painel.ebanonet.com.br:25461/a811b3j79nBr/5x9GdlNh20j/8144
-#EXTINF:-1,TELECINE PIPOCA HD
-http://painel.ebanonet.com.br:25461/a811b3j79nBr/5x9GdlNh20j/6078
-#EXTINF:-1,TELECINE PREMIUM SD
-http://painel.ebanonet.com.br:25461/a811b3j79nBr/5x9GdlNh20j/4316
-#EXTINF:-1,Telecine Touch HD [Alternativo]
-http://painel.ebanonet.com.br:25461/a811b3j79nBr/5x9GdlNh20j/10997
-#EXTINF:-1,TELECINE TOUCH SD
-http://painel.ebanonet.com.br:25461/a811b3j79nBr/5x9GdlNh20j/4315
-#EXTINF:-1,SPACE FHD (DUAL AUDIO)
-http://painel.ebanonet.com.br:25461/a811b3j79nBr/5x9GdlNh20j/13197
-#EXTINF:-1,SPACE HD
-http://painel.ebanonet.com.br:25461/a811b3j79nBr/5x9GdlNh20j/6085
-#EXTINF:-1,Space HD [Alternativo]
-http://painel.ebanonet.com.br:25461/a811b3j79nBr/5x9GdlNh20j/11009
 #EXTINF:-1,Globo SP HD
 https://globolive.akamaized.net/d/c/x2800/s/hls-globo-sp1/hls-globo-sp1_2316/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
 #EXTINF:-1 tvg-id="GLOBO RJ" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV Aberta",Globo RJ HD
