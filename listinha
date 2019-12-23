@@ -5,521 +5,1038 @@ http://www.sansat.net:25461/live/3344404864/i4ZStYgQPwVLDNv/41813.m3u8
 http://www.sansat.net:25461/live/3344404864/i4ZStYgQPwVLDNv/41814.m3u8
 #EXTINF:-1,Record HD
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
-#EXTINF:-1 tvg-id="GLOBO ACRE" tvg-name="GLOBO ACRE HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO ACRE HD
-http://list.deeplist.nl/live/jcantel/cantel123/49721.m3u8
-#EXTINF:-1 tvg-id="GLOBO ACRE" tvg-name="GLOBO ACRE SD 1" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO ACRE SD 1
-http://list.deeplist.nl/live/jcantel/cantel123/49720.m3u8
-#EXTINF:-1 tvg-id="GLOBO ACRE" tvg-name="GLOBO ACRE SD 2" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO ACRE SD 2
-http://list.deeplist.nl/live/jcantel/cantel123/49722.m3u8
-#EXTINF:-1 tvg-id="GLOBO ACRE" tvg-name="GLOBO ACRE SD 3" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO ACRE SD 3
-http://list.deeplist.nl/live/jcantel/cantel123/49723.m3u8
-#EXTINF:-1 tvg-id="GLOBO ACRE" tvg-name="GLOBO ACRE SD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO ACRE SD+
-http://list.deeplist.nl/live/jcantel/cantel123/49724.m3u8
-#EXTINF:-1 tvg-id="GLOBO AMAPA" tvg-name="GLOBO AMAPÁ HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO AMAPÁ HD
-http://list.deeplist.nl/live/jcantel/cantel123/49729.m3u8
-#EXTINF:-1 tvg-id="GLOBO AMAPA" tvg-name="GLOBO AMAPÁ SD 1" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO AMAPÁ SD 1
-http://list.deeplist.nl/live/jcantel/cantel123/49725.m3u8
-#EXTINF:-1 tvg-id="GLOBO AMAPA" tvg-name="GLOBO AMAPÁ SD 2" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO AMAPÁ SD 2
-http://list.deeplist.nl/live/jcantel/cantel123/49726.m3u8
-#EXTINF:-1 tvg-id="GLOBO AMAPA" tvg-name="GLOBO AMAPÁ SD 3" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO AMAPÁ SD 3
-http://list.deeplist.nl/live/jcantel/cantel123/49727.m3u8
-#EXTINF:-1 tvg-id="GLOBO AMAPA" tvg-name="GLOBO AMAPÁ SD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO AMAPÁ SD+
-http://list.deeplist.nl/live/jcantel/cantel123/49728.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="GLOBO BRASILIA HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO BRASILIA HD
-http://list.deeplist.nl/live/jcantel/cantel123/17121.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="GLOBO BRASILIA HD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO BRASILIA HD+
-http://list.deeplist.nl/live/jcantel/cantel123/21804.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="GLOBO BRASILIA SD 1" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO BRASILIA SD 1
-http://list.deeplist.nl/live/jcantel/cantel123/38664.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="GLOBO BRASILIA SD 2" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO BRASILIA SD 2
-http://list.deeplist.nl/live/jcantel/cantel123/38665.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="GLOBO BRASILIA SD 3" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO BRASILIA SD 3
-http://list.deeplist.nl/live/jcantel/cantel123/38666.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="GLOBO BRASILIA SD 4" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO BRASILIA SD 4
-http://list.deeplist.nl/live/jcantel/cantel123/2512.m3u8
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="GLOBO BRASILIA SD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO BRASILIA SD+
-http://list.deeplist.nl/live/jcantel/cantel123/22363.m3u8
-#EXTINF:-1 tvg-id="GLOBO EPTV CAMPINAS" tvg-name="GLOBO EPTV CAMPINAS" tvg-logo="http://img.starbr.in/1559760101_ca6b3ecd30c2051984e325b09c5623905d213e43.jpg" group-title="Canais Abertos",GLOBO EPTV CAMPINAS
-http://list.deeplist.nl/live/jcantel/cantel123/17962.m3u8
-#EXTINF:-1 tvg-id="GLOBO EPTV RIBEIRAO PRETO" tvg-name="GLOBO EPTV RIBEIRAO PRETO" tvg-logo="http://img.starbr.in/1559760101_ca6b3ecd30c2051984e325b09c5623905d213e43.jpg" group-title="Canais Abertos",GLOBO EPTV RIBEIRAO PRETO
-http://list.deeplist.nl/live/jcantel/cantel123/48800.m3u8
-#EXTINF:-1 tvg-id="GLOBO INTER TV CABUGI" tvg-name="GLOBO INTER TV CABUGI" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559760188_94005d76e4a4a4337a377e2d5185ad3b3b3a1099.jpg" group-title="Variedades e Musicas",GLOBO INTER TV CABUGI
-http://list.deeplist.nl/live/jcantel/cantel123/52685.m3u8
-#EXTINF:-1 tvg-id="GLOBO MG" tvg-name="GLOBO MG HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO MG HD
-http://list.deeplist.nl/live/jcantel/cantel123/17129.m3u8
-#EXTINF:-1 tvg-id="GLOBO MG" tvg-name="GLOBO MG HD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO MG HD+
-http://list.deeplist.nl/live/jcantel/cantel123/21803.m3u8
-#EXTINF:-1 tvg-id="GLOBO MG" tvg-name="GLOBO MG SD 1" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO MG SD 1
-http://list.deeplist.nl/live/jcantel/cantel123/38654.m3u8
-#EXTINF:-1 tvg-id="GLOBO MG" tvg-name="GLOBO MG SD 2" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO MG SD 2
-http://list.deeplist.nl/live/jcantel/cantel123/38655.m3u8
-#EXTINF:-1 tvg-id="GLOBO MG" tvg-name="GLOBO MG SD 3" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO MG SD 3
-http://list.deeplist.nl/live/jcantel/cantel123/38656.m3u8
-#EXTINF:-1 tvg-id="GLOBO MG" tvg-name="GLOBO MG SD 4" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO MG SD 4
-http://list.deeplist.nl/live/jcantel/cantel123/2412.m3u8
-#EXTINF:-1 tvg-id="GLOBO MG" tvg-name="GLOBO MG SD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO MG SD+
-http://list.deeplist.nl/live/jcantel/cantel123/22367.m3u8
-#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS HD" tvg-logo="http://img.starbr.in/1559760291_7ae44011553f7188028f778d09bc49ed10cb6aa3.png" group-title="Noticias",GLOBO NEWS HD
-http://list.deeplist.nl/live/jcantel/cantel123/5085.m3u8
-#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS SD 1" tvg-logo="http://img.starbr.in/1559760291_7ae44011553f7188028f778d09bc49ed10cb6aa3.png" group-title="Noticias",GLOBO NEWS SD 1
-http://list.deeplist.nl/live/jcantel/cantel123/38716.m3u8
-#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS SD 2" tvg-logo="http://img.starbr.in/1559760291_7ae44011553f7188028f778d09bc49ed10cb6aa3.png" group-title="Noticias",GLOBO NEWS SD 2
-http://list.deeplist.nl/live/jcantel/cantel123/38715.m3u8
-#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS SD 3" tvg-logo="http://img.starbr.in/1559760291_7ae44011553f7188028f778d09bc49ed10cb6aa3.png" group-title="Noticias",GLOBO NEWS SD 3
-http://list.deeplist.nl/live/jcantel/cantel123/38714.m3u8
-#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS SD+" tvg-logo="http://img.starbr.in/1559760291_7ae44011553f7188028f778d09bc49ed10cb6aa3.png" group-title="Noticias",GLOBO NEWS SD+
-http://list.deeplist.nl/live/jcantel/cantel123/23980.m3u8
-#EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="GLOBO NORDESTE HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO NORDESTE HD
-http://list.deeplist.nl/live/jcantel/cantel123/17130.m3u8
-#EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="GLOBO NORDESTE SD 1" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO NORDESTE SD 1
-http://list.deeplist.nl/live/jcantel/cantel123/38667.m3u8
-#EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="GLOBO NORDESTE SD 2" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO NORDESTE SD 2
-http://list.deeplist.nl/live/jcantel/cantel123/38668.m3u8
-#EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="GLOBO NORDESTE SD 3" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO NORDESTE SD 3
-http://list.deeplist.nl/live/jcantel/cantel123/38669.m3u8
-#EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="GLOBO NORDESTE SD 4" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO NORDESTE SD 4
-http://list.deeplist.nl/live/jcantel/cantel123/15405.m3u8
-#EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="GLOBO NORDESTE SD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO NORDESTE SD+
-http://list.deeplist.nl/live/jcantel/cantel123/22371.m3u8
-#EXTINF:-1 tvg-id="GLOBO REDE AMAZONICA" tvg-name="GLOBO REDE AMAZONICA HD" tvg-logo="http://img.starbr.in/1559759255_bea5ead27a3c40a53253cbefee3add925b60b52f.png" group-title="Canais Abertos",GLOBO REDE AMAZONICA HD
-http://list.deeplist.nl/live/jcantel/cantel123/38452.m3u8
-#EXTINF:-1 tvg-id="GLOBO REDE AMAZONICA" tvg-name="GLOBO REDE AMAZONICA SD 1" tvg-logo="http://img.starbr.in/1559759255_bea5ead27a3c40a53253cbefee3add925b60b52f.png" group-title="Canais Abertos",GLOBO REDE AMAZONICA SD 1
-http://list.deeplist.nl/live/jcantel/cantel123/38670.m3u8
-#EXTINF:-1 tvg-id="GLOBO REDE AMAZONICA" tvg-name="GLOBO REDE AMAZONICA SD 2" tvg-logo="http://img.starbr.in/1559759255_bea5ead27a3c40a53253cbefee3add925b60b52f.png" group-title="Canais Abertos",GLOBO REDE AMAZONICA SD 2
-http://list.deeplist.nl/live/jcantel/cantel123/38671.m3u8
-#EXTINF:-1 tvg-id="GLOBO REDE AMAZONICA" tvg-name="GLOBO REDE AMAZONICA SD 3" tvg-logo="http://img.starbr.in/1559759255_bea5ead27a3c40a53253cbefee3add925b60b52f.png" group-title="Canais Abertos",GLOBO REDE AMAZONICA SD 3
-http://list.deeplist.nl/live/jcantel/cantel123/9580.m3u8
-#EXTINF:-1 tvg-id="GLOBO REDE AMAZONICA" tvg-name="GLOBO REDE AMAZONICA SD 4" tvg-logo="http://img.starbr.in/1559759255_bea5ead27a3c40a53253cbefee3add925b60b52f.png" group-title="Canais Abertos",GLOBO REDE AMAZONICA SD 4
-http://list.deeplist.nl/live/jcantel/cantel123/40436.m3u8
-#EXTINF:-1 tvg-id="GLOBO REDE AMAZONICA" tvg-name="GLOBO REDE AMAZONICA SD+" tvg-logo="http://img.starbr.in/1559759255_bea5ead27a3c40a53253cbefee3add925b60b52f.png" group-title="Canais Abertos",GLOBO REDE AMAZONICA SD+
-http://list.deeplist.nl/live/jcantel/cantel123/38451.m3u8
-#EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RJ FULL HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RJ FULL HD
-http://list.deeplist.nl/live/jcantel/cantel123/52618.m3u8
-#EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RJ HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RJ HD
-http://list.deeplist.nl/live/jcantel/cantel123/1207.m3u8
-#EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RJ HD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RJ HD+
-http://list.deeplist.nl/live/jcantel/cantel123/21801.m3u8
-#EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RJ SD 1" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RJ SD 1
-http://list.deeplist.nl/live/jcantel/cantel123/38661.m3u8
-#EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RJ SD 2" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RJ SD 2
-http://list.deeplist.nl/live/jcantel/cantel123/38662.m3u8
-#EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RJ SD 3" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RJ SD 3
-http://list.deeplist.nl/live/jcantel/cantel123/38663.m3u8
-#EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RJ SD 4" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RJ SD 4
-http://list.deeplist.nl/live/jcantel/cantel123/2508.m3u8
-#EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RJ SD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RJ SD+
-http://list.deeplist.nl/live/jcantel/cantel123/22209.m3u8
-#EXTINF:-1 tvg-id="GLOBO RORAIMA" tvg-name="GLOBO RORAIMA SD 1" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RORAIMA SD 1
-http://list.deeplist.nl/live/jcantel/cantel123/49730.m3u8
-#EXTINF:-1 tvg-id="GLOBO RORAIMA" tvg-name="GLOBO RORAIMA SD 3" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RORAIMA SD 3
-http://list.deeplist.nl/live/jcantel/cantel123/49731.m3u8
-#EXTINF:-1 tvg-id="GLOBO RORAIMA" tvg-name="GLOBO RORAIMA SD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RORAIMA SD+
-http://list.deeplist.nl/live/jcantel/cantel123/49732.m3u8
-#EXTINF:-1 tvg-id="GLOBO RPC CURITIBA" tvg-name="GLOBO RPC CURITIBA" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559759357_313fc13c0c4c48f39900b69012e1917edf86c8cd.png" group-title="Canais Abertos",GLOBO RPC CURITIBA
-http://list.deeplist.nl/live/jcantel/cantel123/52606.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SP HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO SP HD
-http://list.deeplist.nl/live/jcantel/cantel123/17122.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SP HD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO SP HD+
-http://list.deeplist.nl/live/jcantel/cantel123/21800.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SP SD 1" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO SP SD 1
-http://list.deeplist.nl/live/jcantel/cantel123/38657.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SP SD 2" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO SP SD 2
-http://list.deeplist.nl/live/jcantel/cantel123/38658.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SP SD 3" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO SP SD 3
-http://list.deeplist.nl/live/jcantel/cantel123/38659.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SP SD 4" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO SP SD 4
-http://list.deeplist.nl/live/jcantel/cantel123/1024.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SP SD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO SP SD+
-http://list.deeplist.nl/live/jcantel/cantel123/22359.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV ANHANGUERA" tvg-name="GLOBO TV ANHANGUERA HD" tvg-logo="http://img.starbr.in/1559759447_86158d3f8122856c1448af452519720e40c576e0.jpg" group-title="Canais Abertos",GLOBO TV ANHANGUERA HD
-http://list.deeplist.nl/live/jcantel/cantel123/49719.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV ANHANGUERA" tvg-name="GLOBO TV ANHANGUERA SD 1" tvg-logo="http://img.starbr.in/1559759447_86158d3f8122856c1448af452519720e40c576e0.jpg" group-title="Canais Abertos",GLOBO TV ANHANGUERA SD 1
-http://list.deeplist.nl/live/jcantel/cantel123/49716.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV ANHANGUERA" tvg-name="GLOBO TV ANHANGUERA SD 2" tvg-logo="http://img.starbr.in/1559759447_86158d3f8122856c1448af452519720e40c576e0.jpg" group-title="Canais Abertos",GLOBO TV ANHANGUERA SD 2
-http://list.deeplist.nl/live/jcantel/cantel123/49717.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV ANHANGUERA" tvg-name="GLOBO TV ANHANGUERA SD 3" tvg-logo="http://img.starbr.in/1559759447_86158d3f8122856c1448af452519720e40c576e0.jpg" group-title="Canais Abertos",GLOBO TV ANHANGUERA SD 3
-http://list.deeplist.nl/live/jcantel/cantel123/2511.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV ANHANGUERA" tvg-name="GLOBO TV ANHANGUERA SD+" tvg-logo="http://img.starbr.in/1559759447_86158d3f8122856c1448af452519720e40c576e0.jpg" group-title="Canais Abertos",GLOBO TV ANHANGUERA SD+
-http://list.deeplist.nl/live/jcantel/cantel123/49718.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV BAHIA" tvg-name="GLOBO TV BAHIA" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559759519_28b3f0daa2a85ff41007f87d7eebe2bcff3079ca.jpg" group-title="Variedades e Musicas",GLOBO TV BAHIA
-http://list.deeplist.nl/live/jcantel/cantel123/52684.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV CENTRO AMERICA" tvg-name="GLOBO TV CENTRO AMERICA" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559759583_f31255faf1deb50addda12d3a3727c4d68299b35.png" group-title="Variedades e Musicas",GLOBO TV CENTRO AMERICA
-http://list.deeplist.nl/live/jcantel/cantel123/52683.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV RONDONIA" tvg-name="GLOBO TV RONDÔNIA SD 1" tvg-logo="http://img.starbr.in/1559759255_bea5ead27a3c40a53253cbefee3add925b60b52f.png" group-title="Canais Abertos",GLOBO TV RONDÔNIA SD 1
-http://list.deeplist.nl/live/jcantel/cantel123/49715.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV RONDONIA" tvg-name="GLOBO TV RONDÔNIA SD 3" tvg-logo="http://img.starbr.in/1559759255_bea5ead27a3c40a53253cbefee3add925b60b52f.png" group-title="Canais Abertos",GLOBO TV RONDÔNIA SD 3
-http://list.deeplist.nl/live/jcantel/cantel123/49714.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV RONDONIA" tvg-name="GLOBO TV RONDÔNIA SD+" tvg-logo="http://img.starbr.in/1559759255_bea5ead27a3c40a53253cbefee3add925b60b52f.png" group-title="Canais Abertos",GLOBO TV RONDÔNIA SD+
-http://list.deeplist.nl/live/jcantel/cantel123/49713.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VANGUARDA" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559759996_99ccece1b6f8192e552f11b4ed679715ec7fd112.jpg" group-title="Noticias",GLOBO TV VANGUARDA
-http://list.deeplist.nl/live/jcantel/cantel123/52682.m3u8
-#EXTINF:-1 tvg-id="GLOBO TV VERDES MARES" tvg-name="GLOBO TV VERDES MARES" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559760048_d547b8891fa670475e7d52c8e72ecc87aa5bc1ab.png" group-title="Noticias",GLOBO TV VERDES MARES
-http://list.deeplist.nl/live/jcantel/cantel123/52681.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , GLOBO BRASILIA 
-http://185.93.1.216:8900/live/B2A463CD6C93/B2A463CD6C93/5750.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , GLOBO DF HD 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5750.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , GLOBO BAHIA
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5731.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 01" , GLOBO INTERNACIONAL
-http://185.93.1.216:8900/live/B2A463CD6C93/B2A463CD6C93/4803.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 01" , GLOBO  02 SD
-http://185.93.1.216:8900/live/B2A463CD6C93/B2A463CD6C93/4804.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 01" , GLOBO 03 SD
-http://185.93.1.216:8900/live/B2A463CD6C93/B2A463CD6C93/4805.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 01" , GLOBO NEWS HD
-http://185.93.1.216:8900/live/B2A463CD6C93/B2A463CD6C93/4753.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" ,MAIS GLOBO SAT HD
-http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/4752.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , A&E HD
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5795.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , ANIMAL PLANET
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5793.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , CARTOON NET WORK   
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5781.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , AXN HD
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5792.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" ,BAND NEWS
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5790.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" ,BAND HD
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5882.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" ,BAND SPORTS HD
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5788.m3u8 
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" ,BOOMERANG HD
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/8785.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" ,BIS HD
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5787.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" ,CARTOON NETWORK HD  
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5781.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" ,CINEMAX HD
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5780.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , COMBATE HD
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5779.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , COMEDY CENTRAL HD 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5778.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , DAZN SPORTS 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5777.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , DISCOVERY CHANNEL HD 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5776.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" ,  DISCOVERY H&H HD   
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5774.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , DISCOVERY KIDS  HD 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5772.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , DISCOVERY SCIENCE HD  
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5771.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , A&E HD
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5795.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , DISCOVERY THEATHER 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5770.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , ANIMAL PLANET
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5793.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , DISCOVERY TURBO HD   
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5769.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , CARTOON NET WORK   
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5781.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , DISCOVERY WORLD HD  
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5768
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , AXN HD
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5792.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , DISNEY CHANNEL HD  
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5767.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" ,BAND NEWS
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5790.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , DISNEY JUNIOR HD   
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5766.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" ,BAND HD
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5882.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , E! HD
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/7511.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" ,BAND SPORTS HD
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5788.m3u8 
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" ,ESPN 2 HD
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5765.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" ,BOOMERANG HD
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/8785.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , ESPN  BRASIL HD  
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5764.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" ,BIS HD
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5787.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , ESPN EXTRA  HD  
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5763.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" ,CARTOON NETWORK HD  
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5781.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , ESPN HD
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5762.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" ,CINEMAX HD
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5780.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , FOOD HD
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5760.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , COMBATE HD
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5779.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , FOX CHANNEL HD 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5759.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , COMEDY CENTRAL HD 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5778.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , FOX LIFE HD 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5758.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , DAZN SPORTS 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5777.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , FOX PREMIUM  HD 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5757.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , DISCOVERY CHANNEL HD 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5776.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , FOX PREMIUM 2 HD 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5756.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" ,  DISCOVERY H&H HD   
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5774.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , FOX SPORTS 2 HD 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5755.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , DISCOVERY KIDS  HD 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5772.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , FOX SPORTS  HD 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5754.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , DISCOVERY SCIENCE HD  
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5771.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , FX HD
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5752.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , DISCOVERY THEATHER 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5770.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , GLOBINHO FHD
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5751.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , DISCOVERY TURBO HD   
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5769.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , GLOBINHO HD
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/7514.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , DISCOVERY WORLD HD  
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5768
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , GLOBO 01 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5750.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , DISNEY CHANNEL HD  
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5767.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , GLOBO  BAHIA 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5731.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , DISNEY JUNIOR HD   
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5766.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , GLOBO  02 SD 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5834.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , E! HD
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/7511.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , GLOBO 03 SD 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5860.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" ,ESPN 2 HD
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5765.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , GLOBO NEWS HD 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5743.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , ESPN  BRASIL HD  
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5764.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , GLOOB HD 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/7505.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , ESPN EXTRA  HD  
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5763.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , GNT HD  
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/7504.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , ESPN HD
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5762.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , H2 HD
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5725.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , FOOD HD
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5760.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" ,HISTORY HD 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5719.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , FOX CHANNEL HD 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5759.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , HBO 2
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5721.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , FOX LIFE HD 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5758.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , HBO  FAMILY HD 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/7503.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , FOX PREMIUM  HD 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5757.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , HBO HD
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5724.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , FOX PREMIUM 2 HD 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5756.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , HBO+ HD
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5723.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , FOX SPORTS 2 HD 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5755.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" ,HBO SIGNATURE HD  
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5722.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , FOX SPORTS  HD 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5754.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" ,HGTV HD  
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5720.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , FX HD
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5752.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , ID  HD
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5773.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , GLOBINHO FHD
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5751.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" ,  LIFE TIME HD  
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5718.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , GLOBINHO HD
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/7514.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , MAX HD
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5717.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , GLOBO 01 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5750.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , MAX PRIME HD 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5715.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , GLOBO  BAHIA 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5731.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , MAX UP HD 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5716.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , GLOBO  02 SD 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5834.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , MEGA PIX HD 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5714.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , GLOBO 03 SD 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5860.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , MTV  HD 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5713.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , GLOBO NEWS HD 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5743.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , MULTI SHOW  HD 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5712.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , GLOOB HD 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/7505.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , NAT GEOGRAFIC  HD 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5711.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , GNT HD  
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/7504.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , NAT GEO KIDS  HD 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5710.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , H2 HD
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5725.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , NAT GEO WILD HD  
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5709.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" ,HISTORY HD 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5719.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , NICKELODEON HD  
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5708.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , HBO 2
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5721.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , NICK JUNIOR HD  
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5707.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , HBO  FAMILY HD 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/7503.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , NICK HD         
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5708.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , HBO HD
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5724.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , OFF HD 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5794.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , HBO+ HD
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5723.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , PARAMOUNT 2  HD 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5706.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" ,HBO SIGNATURE HD  
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5722.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , PREMIERE 2  HD  
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5705.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" ,HGTV HD  
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5720.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" ,PREMIER 3 HD  
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5704.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , ID  HD
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5773.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" ,PREMIER 4 HD    
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5703.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" ,  LIFE TIME HD  
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5718.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" ,PREMIER 5 HD  
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5702.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , MAX HD
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5717.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" ,PREMIER 6 HD  
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5701.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , MAX PRIME HD 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5715.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" ,PREMIER 7 HD  
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5700.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , MAX UP HD 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5716.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" ,PREMIER  CLUBES HD  
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5799.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , MEGA PIX HD 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5714.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" ,  RECORD HD  
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5820.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , MTV  HD 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5713.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" ,  RECORD NEWS
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5695.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , MULTI SHOW  HD 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5712.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" ,REDE BRASIL HD 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5690.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , NAT GEOGRAFIC  HD 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5711.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" ,REDE TV HD 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5816.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , NAT GEO KIDS  HD 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5710.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" ,REDE TV HD 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5791.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , NAT GEO WILD HD  
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5709.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" ,SBT HD 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5811.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , NICKELODEON HD  
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5708.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" ,SPACE HD 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5783.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , NICK JUNIOR HD  
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5707.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" ,SPORTV 2 HD  
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5781.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , NICK HD         
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5708.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" ,SPORTV 3 HD  
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5780.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , OFF HD 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5794.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" ,SPORTV FHD 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5782.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , PARAMOUNT 2  HD 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5706.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" ,STUDIO UNIVERSAL HD  
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5679.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , PREMIERE 2  HD  
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5705.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" ,SYFY HD 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5678.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" ,PREMIER 3 HD  
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5704.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , SONY HD
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5684.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" ,PREMIER 4 HD    
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5703.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" ,TELECINE ACTION  HD  
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5677.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" ,PREMIER 5 HD  
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5702.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , TELECINE CULT  HD  
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5610.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" ,PREMIER 6 HD  
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5701.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" ,TELECINE PREMIUM HD 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5674.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" ,PREMIER 7 HD  
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5700.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" ,TELECINE FUN HD 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5676.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" ,PREMIER  CLUBES HD  
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5799.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" ,  TELECINE PIPOCA HD  
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5675.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" ,  RECORD HD  
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5820.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" ,TELECINE TOUCH  HD  
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5673.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" ,  RECORD NEWS
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5695.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , TV TERRA VIVA HD 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5672.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" ,REDE BRASIL HD 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5690.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , TCM HD 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/7510.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" ,REDE TV HD 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5816.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , TNT HD 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5671.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" ,REDE TV HD 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5791.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" ,TNT SERIES HD  
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5671.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" ,SBT HD 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5811.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" ,TV EVANGELIZAR HD 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5664.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" ,SPACE HD 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5783.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" ,TV HORIZONTE HD 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5802.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" ,SPORTV 2 HD  
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5781.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , TV FUTURA  
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5773.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" ,SPORTV 3 HD  
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5780.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , RIT TV HD
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5684.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" ,SPORTV FHD 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5782.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , TV CANÇÃO NOVA  
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5879.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" ,STUDIO UNIVERSAL HD  
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5679.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , TV CULTURA  
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5807.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" ,SYFY HD 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5678.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" ,TV SUPER HD 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5817.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , SONY HD
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5684.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , TV EVANGELICO HD 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5818.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" ,TELECINE ACTION  HD  
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5677.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , TV HD 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5819.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , TELECINE CULT  HD  
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5610.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , TV  CANAL SAÚDE HD 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5880.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" ,TELECINE PREMIUM HD 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5674.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" ,TRUE TV
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5669.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" ,TELECINE FUN HD 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5676.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" ,REDE TV HD 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5791.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" ,  TELECINE PIPOCA HD  
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5675.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" ,UNIVERSAL HD  
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5661.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" ,TELECINE TOUCH  HD  
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5673.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" ,VIVA HD 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5661.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , TV TERRA VIVA HD 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5672.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" ,WARNNER BROS  HD  
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/5660.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , TCM HD 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/7510.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 06" , HOMEM ARANHA 24 HORAS 
-http://185.93.1.216:8900/live/B2A463CD7A90/B2A463CD7A90/4824.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , TNT HD 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5671.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" ,TNT SERIES HD  
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5671.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" ,TV EVANGELIZAR HD 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5664.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" ,TV HORIZONTE HD 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5802.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , TV FUTURA  
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5773.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , RIT TV HD
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5684.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , TV CANÇÃO NOVA  
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5879.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , TV CULTURA  
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5807.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" ,TV SUPER HD 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5817.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , TV EVANGELICO HD 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5818.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , TV HD 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5819.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , TV  CANAL SAÚDE HD 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5880.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" ,TRUE TV
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5669.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" ,REDE TV HD 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5791.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" ,UNIVERSAL HD  
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5661.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" ,VIVA HD 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5661.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" ,WARNNER BROS  HD  
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/5660.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 04" , HOMEM ARANHA 24 HORAS 
+http://185.93.1.216:8900/live/B2A463CD6CB6/B2A463CD6CB6/4824.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , A&E HD
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5795.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , ANIMAL PLANET
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5793.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , CARTOON NET WORK   
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5781.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , AXN HD
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5792.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" ,BAND NEWS
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5790.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" ,BAND HD
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5882.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" ,BAND SPORTS HD
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5788.m3u8 
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" ,BOOMERANG HD
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/8785.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" ,BIS HD
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5787.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" ,CARTOON NETWORK HD  
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5781.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" ,CINEMAX HD
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5780.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , COMBATE HD
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5779.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , COMEDY CENTRAL HD 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5778.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , DAZN SPORTS 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5777.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , DISCOVERY CHANNEL HD 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5776.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" ,  DISCOVERY H&H HD   
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5774.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , DISCOVERY KIDS  HD 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5772.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , DISCOVERY SCIENCE HD  
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5771.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , DISCOVERY THEATHER 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5770.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , DISCOVERY TURBO HD   
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5769.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , DISCOVERY WORLD HD  
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5768
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , DISNEY CHANNEL HD  
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5767.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , DISNEY JUNIOR HD   
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5766.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , E! HD
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/7511.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" ,ESPN 2 HD
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5765.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , ESPN  BRASIL HD  
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5764.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , ESPN EXTRA  HD  
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5763.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , ESPN HD
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5762.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , FOOD HD
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5760.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , FOX CHANNEL HD 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5759.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , FOX LIFE HD 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5758.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , FOX PREMIUM  HD 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5757.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , FOX PREMIUM 2 HD 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5756.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , FOX SPORTS 2 HD 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5755.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , FOX SPORTS  HD 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5754.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , FX HD
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5752.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , GLOBINHO FHD
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5751.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , GLOBINHO HD
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/7514.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , GLOBO 01 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5750.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , GLOBO  BAHIA 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5731.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , GLOBO  02 SD 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5834.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , GLOBO 03 SD 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5860.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , GLOBO NEWS HD 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5743.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , GLOOB HD 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/7505.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , GNT HD  
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/7504.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , H2 HD
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5725.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" ,HISTORY HD 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5719.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , HBO 2
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5721.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , HBO  FAMILY HD 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/7503.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , HBO HD
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5724.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , HBO+ HD
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5723.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" ,HBO SIGNATURE HD  
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5722.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" ,HGTV HD  
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5720.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , ID  HD
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5773.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" ,  LIFE TIME HD  
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5718.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , MAX HD
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5717.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , MAX PRIME HD 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5715.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , MAX UP HD 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5716.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , MEGA PIX HD 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5714.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , MTV  HD 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5713.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , MULTI SHOW  HD 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5712.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , NAT GEOGRAFIC  HD 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5711.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , NAT GEO KIDS  HD 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5710.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , NAT GEO WILD HD  
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5709.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , NICKELODEON HD  
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5708.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , NICK JUNIOR HD  
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5707.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , NICK HD         
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5708.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , OFF HD 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5794.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , PARAMOUNT 2  HD 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5706.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , PREMIERE 2  HD  
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5705.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" ,PREMIER 3 HD  
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5704.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" ,PREMIER 4 HD    
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5703.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" ,PREMIER 5 HD  
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5702.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" ,PREMIER 6 HD  
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5701.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" ,PREMIER 7 HD  
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5700.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" ,PREMIER  CLUBES HD  
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5799.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" ,  RECORD HD  
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5820.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" ,  RECORD NEWS
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5695.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" ,REDE BRASIL HD 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5690.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" ,REDE TV HD 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5816.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" ,REDE TV HD 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5791.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" ,SBT HD 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5811.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" ,SPACE HD 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5783.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" ,SPORTV 2 HD  
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5781.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" ,SPORTV 3 HD  
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5780.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" ,SPORTV FHD 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5782.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" ,STUDIO UNIVERSAL HD  
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5679.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" ,SYFY HD 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5678.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , SONY HD
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5684.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" ,TELECINE ACTION  HD  
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5677.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , TELECINE CULT  HD  
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5610.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" ,TELECINE PREMIUM HD 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5674.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" ,TELECINE FUN HD 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5676.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" ,  TELECINE PIPOCA HD  
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5675.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" ,TELECINE TOUCH  HD  
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5673.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , TV TERRA VIVA HD 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5672.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , TCM HD 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/7510.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , TNT HD 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5671.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" ,TNT SERIES HD  
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5671.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" ,TV EVANGELIZAR HD 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5664.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" ,TV HORIZONTE HD 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5802.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , TV FUTURA  
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5773.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , RIT TV HD
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5684.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , TV CANÇÃO NOVA  
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5879.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , TV CULTURA  
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5807.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" ,TV SUPER HD 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5817.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , TV EVANGELICO HD 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5818.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , TV HD 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5819.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , TV  CANAL SAÚDE HD 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5880.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" ,TRUE TV
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5669.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" ,REDE TV HD 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5791.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" ,UNIVERSAL HD  
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5661.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" ,VIVA HD 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5661.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" ,WARNNER BROS  HD  
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/5660.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 03" , HOMEM ARANHA 24 HORAS 
+http://185.93.1.216:8900/live/B2A463CD6CB2/B2A463CD6CB2/4824.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , A&E HD
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5795.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , ANIMAL PLANET
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5793.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , CARTOON NET WORK   
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5781.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , AXN HD
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5792.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" ,BAND NEWS
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5790.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" ,BAND HD
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5882.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" ,BAND SPORTS HD
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5788.m3u8 
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" ,BOOMERANG HD
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/8785.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" ,BIS HD
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5787.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" ,CARTOON NETWORK HD  
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5781.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" ,CINEMAX HD
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5780.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , COMBATE HD
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5779.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , COMEDY CENTRAL HD 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5778.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , DAZN SPORTS 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5777.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , DISCOVERY CHANNEL HD 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5776.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" ,  DISCOVERY H&H HD   
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5774.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , DISCOVERY KIDS  HD 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5772.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , DISCOVERY SCIENCE HD  
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5771.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , DISCOVERY THEATHER 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5770.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , DISCOVERY TURBO HD   
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5769.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , DISCOVERY WORLD HD  
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5768
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , DISNEY CHANNEL HD  
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5767.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , DISNEY JUNIOR HD   
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5766.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , E! HD
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/7511.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" ,ESPN 2 HD
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5765.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , ESPN  BRASIL HD  
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5764.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , ESPN EXTRA  HD  
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5763.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , ESPN HD
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5762.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , FOOD HD
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5760.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , FOX CHANNEL HD 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5759.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , FOX LIFE HD 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5758.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , FOX PREMIUM  HD 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5757.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , FOX PREMIUM 2 HD 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5756.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , FOX SPORTS 2 HD 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5755.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , FOX SPORTS  HD 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5754.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , FX HD
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5752.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , GLOBINHO FHD
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5751.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , GLOBINHO HD
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/7514.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , GLOBO 01 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5750.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , GLOBO  BAHIA 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5731.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , GLOBO  02 SD 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5834.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , GLOBO 03 SD 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5860.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , GLOBO NEWS HD 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5743.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , GLOOB HD 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/7505.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , GNT HD  
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/7504.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , H2 HD
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5725.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" ,HISTORY HD 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5719.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , HBO 2
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5721.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , HBO  FAMILY HD 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/7503.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , HBO HD
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5724.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , HBO+ HD
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5723.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" ,HBO SIGNATURE HD  
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5722.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" ,HGTV HD  
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5720.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , ID  HD
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5773.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" ,  LIFE TIME HD  
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5718.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , MAX HD
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5717.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , MAX PRIME HD 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5715.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , MAX UP HD 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5716.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , MEGA PIX HD 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5714.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , MTV  HD 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5713.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , MULTI SHOW  HD 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5712.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , NAT GEOGRAFIC  HD 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5711.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , NAT GEO KIDS  HD 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5710.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , NAT GEO WILD HD  
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5709.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , NICKELODEON HD  
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5708.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , NICK JUNIOR HD  
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5707.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , NICK HD         
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5708.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , OFF HD 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5794.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , PARAMOUNT 2  HD 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5706.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , PREMIERE 2  HD  
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5705.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" ,PREMIER 3 HD  
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5704.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" ,PREMIER 4 HD    
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5703.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" ,PREMIER 5 HD  
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5702.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" ,PREMIER 6 HD  
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5701.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" ,PREMIER 7 HD  
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5700.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" ,PREMIER  CLUBES HD  
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5799.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" ,  RECORD HD  
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5820.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" ,  RECORD NEWS
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5695.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" ,REDE BRASIL HD 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5690.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" ,REDE TV HD 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5816.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" ,REDE TV HD 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5791.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" ,SBT HD 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5811.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" ,SPACE HD 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5783.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" ,SPORTV 2 HD  
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5781.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" ,SPORTV 3 HD  
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5780.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" ,SPORTV FHD 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5782.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" ,STUDIO UNIVERSAL HD  
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5679.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" ,SYFY HD 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5678.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , SONY HD
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5684.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" ,TELECINE ACTION  HD  
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5677.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , TELECINE CULT  HD  
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5610.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" ,TELECINE PREMIUM HD 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5674.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" ,TELECINE FUN HD 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5676.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" ,  TELECINE PIPOCA HD  
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5675.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" ,TELECINE TOUCH  HD  
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5673.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , TV TERRA VIVA HD 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5672.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , TCM HD 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/7510.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , TNT HD 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5671.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" ,TNT SERIES HD  
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5671.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" ,TV EVANGELIZAR HD 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5664.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" ,TV HORIZONTE HD 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5802.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , TV FUTURA  
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5773.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , RIT TV HD
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5684.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , TV CANÇÃO NOVA  
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5879.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , TV CULTURA  
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5807.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" ,TV SUPER HD 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5817.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , TV EVANGELICO HD 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5818.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , TV HD 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5819.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , TV  CANAL SAÚDE HD 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5880.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" ,TRUE TV
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5669.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" ,REDE TV HD 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5791.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" ,UNIVERSAL HD  
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5661.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" ,VIVA HD 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5661.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" ,WARNNER BROS  HD  
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/5660.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 02" , HOMEM ARANHA 24 HORAS 
+http://185.93.1.216:8900/live/B2A463CD6C9A0/B2A463CD6C91/4824.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SERVIDOR 01" , A&E HD 
 http://185.93.1.216:8900/live/B2A463CD6C93/B2A463CD6C93/4788.m3u8
 #EXTM3U
