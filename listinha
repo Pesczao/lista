@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 ,VIP-PT: TV Globo FHD
+#EXTINF:-1 ,VIP-PT: TV Globo PORTUGAL FHD
 http://www.sansat.net:25461/live/3344404864/i4ZStYgQPwVLDNv/41813.m3u8
-#EXTINF:-1 ,VIP-PT: TV Globo
+#EXTINF:-1 ,VIP-PT: TV Globo PORTUGAL
 http://www.sansat.net:25461/live/3344404864/i4ZStYgQPwVLDNv/41814.m3u8
 #EXTINF:-1 ,Record HD
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
