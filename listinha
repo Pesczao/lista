@@ -1,7 +1,44 @@
 #EXTM3U
-#EXTM3U
+#EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="GLOBO NORDESTE HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO NORDESTE HD
+http://lista.digitalgroup.me:80/live/lenita/123/17130.m3u8
+#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="GLOBO BRASILIA HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO BRASILIA HD
+http://lista.digitalgroup.me:80/live/lenita/123/17121.m3u8
+#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="GLOBO BRASILIA HD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO BRASILIA HD+
+http://lista.digitalgroup.me:80/live/lenita/123/21804.m3u8
 #EXTINF:-1 tvg-id="AeE" tvg-name="A&E" tvg-logo="http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Variedades e Musicas",A&E
 http://list.deeplist.nl/live/jcantel01/cantel123/1120.m3u8
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559768471_301eda035c94a449755f1ea79b2208599af261b0.png" group-title="Filmes e Series",TCM
+http://lista.digitalgroup.me:80/live/lenita/123/52252.m3u8
+#EXTINF:-1 tvg-id="TC ACTION" tvg-name="TELECINE ACTION" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559768114_893f4f74afaa7a1bb04b4cd69944407e5484395c.png" group-title="Filmes e Series",TELECINE ACTION
+http://lista.digitalgroup.me:80/live/lenita/123/52589.m3u8
+#EXTINF:-1 tvg-id="TC ACTION" tvg-name="TELECINE ACTION FULL HD" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559768114_893f4f74afaa7a1bb04b4cd69944407e5484395c.png" group-title="Filmes e Series",TELECINE ACTION FULL HD
+http://lista.digitalgroup.me:80/live/lenita/123/52620.m3u8
+#EXTINF:-1 tvg-id="TC ACTION" tvg-name="TELECINE ACTION HD" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559768114_893f4f74afaa7a1bb04b4cd69944407e5484395c.png" group-title="Filmes e Series",TELECINE ACTION HD
+http://lista.digitalgroup.me:80/live/lenita/123/52588.m3u8
+#EXTINF:-1 tvg-id="TC CULT" tvg-name="TELECINE CULT" tvg-logo="http://img.starbr.in/1559768182_1717ffef52357c6ffb97f32c3482c3e460e06287.jpg" group-title="Filmes e Series",TELECINE CULT
+http://lista.digitalgroup.me:80/live/lenita/123/933.m3u8
+#EXTINF:-1 tvg-id="TC CULT" tvg-name="TELECINE CULT HD" tvg-logo="http://img.starbr.in/1559768182_1717ffef52357c6ffb97f32c3482c3e460e06287.jpg" group-title="Filmes e Series",TELECINE CULT HD
+http://lista.digitalgroup.me:80/live/lenita/123/5096.m3u8
+#EXTINF:-1 tvg-id="TC FUN" tvg-name="TELECINE FUN" tvg-logo="http://img.starbr.in/1559768244_cf9af94b93e3e9822e29adb9743aef3ed5802712.png" group-title="Filmes e Series",TELECINE FUN
+http://lista.digitalgroup.me:80/live/lenita/123/931.m3u8
+#EXTINF:-1 tvg-id="TC FUN" tvg-name="TELECINE FUN HD" tvg-logo="http://img.starbr.in/1559768244_cf9af94b93e3e9822e29adb9743aef3ed5802712.png" group-title="Filmes e Series",TELECINE FUN HD
+http://lista.digitalgroup.me:80/live/lenita/123/932.m3u8
+#EXTINF:-1 tvg-id="TC PIPOCA" tvg-name="TELECINE PIPOCA" tvg-logo="http://img.starbr.in/1559768323_366798749b48fcf44002badff0abe6b71622d10a.png" group-title="Filmes e Series",TELECINE PIPOCA
+http://lista.digitalgroup.me:80/live/lenita/123/929.m3u8
+#EXTINF:-1 tvg-id="TC PIPOCA" tvg-name="TELECINE PIPOCA FULL HD" tvg-logo="http://img.starbr.in/1559768323_366798749b48fcf44002badff0abe6b71622d10a.png" group-title="Filmes e Series",TELECINE PIPOCA FULL HD
+http://lista.digitalgroup.me:80/live/lenita/123/52623.m3u8
+#EXTINF:-1 tvg-id="TC PIPOCA" tvg-name="TELECINE PIPOCA HD" tvg-logo="http://img.starbr.in/1559768323_366798749b48fcf44002badff0abe6b71622d10a.png" group-title="Filmes e Series",TELECINE PIPOCA HD
+http://lista.digitalgroup.me:80/live/lenita/123/930.m3u8
+#EXTINF:-1 tvg-id="TC PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559768374_3ab3da273f6376f805201173c21a95ebf05b9f28.png" group-title="Filmes e Series",TELECINE PREMIUM
+http://lista.digitalgroup.me:80/live/lenita/123/52591.m3u8
+#EXTINF:-1 tvg-id="TC PREMIUM" tvg-name="TELECINE PREMIUM FULL HD" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559768374_3ab3da273f6376f805201173c21a95ebf05b9f28.png" group-title="Filmes e Series",TELECINE PREMIUM FULL HD
+http://lista.digitalgroup.me:80/live/lenita/123/52624.m3u8
+#EXTINF:-1 tvg-id="TC PREMIUM" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559768374_3ab3da273f6376f805201173c21a95ebf05b9f28.png" group-title="Filmes e Series",TELECINE PREMIUM HD
+http://lista.digitalgroup.me:80/live/lenita/123/52590.m3u8
+#EXTINF:-1 tvg-id="TC TOUCH" tvg-name="TELECINE TOUCH" tvg-logo="http://img.starbr.in/1559768433_a9ac4ebebeb8daddf3e3ebc24c612bdbffbdb8fc.png" group-title="Filmes e Series",TELECINE TOUCH
+http://lista.digitalgroup.me:80/live/lenita/123/926.m3u8
+#EXTINF:-1 tvg-id="TC TOUCH" tvg-name="TELECINE TOUCH HD" tvg-logo="http://img.starbr.in/1559768433_a9ac4ebebeb8daddf3e3ebc24c612bdbffbdb8fc.png" group-title="Filmes e Series",TELECINE TOUCH HD
+http://lista.digitalgroup.me:80/live/lenita/123/927.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A&E FULL HD" tvg-logo="http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Variedades e Musicas",A&E FULL HD
 http://list.deeplist.nl/live/jcantel01/cantel123/52645.m3u8
 #EXTINF:-1 tvg-id="AeE" tvg-name="A&E HD" tvg-logo="http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Variedades e Musicas",A&E HD#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="http://img.starbr.in/1559753228_f9fd5b8ac3ccd2067103ba276a7f7e943752a269.jpg" group-title="Filmes e Series",AMC HD
